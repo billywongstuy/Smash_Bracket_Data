@@ -1,0 +1,41 @@
+Player: Konga
+Rank: 51
+Points: 24.140000
+
+Top 10 Record: 4-5
+Top 50 Record: 5-11
+
+Tournaments:
+Port Priority 2: Midwest Invasion: 2nd
+Evo 2017: 33rd
+IGX - International Gaming Expo: 3rd
+2GGC: West Side Saga: 25th
+
+Wins Top 50:
+('MKLeo', ['PAX Arena at PAX West 2017'])
+('Tweek', ['PAX Arena at PAX West 2017'])
+('VoiD', ['Evo 2017', 'PAX Arena at PAX West 2017'])
+('ANTi', ['PAX Arena at PAX West 2017'])
+
+Losses Top 50:
+('ZeRo', ['PAX Arena at PAX West 2017'])
+('Salem', ['PAX Arena at PAX West 2017'])
+('Nairo', ['2GGC: West Side Saga'])
+('MKLeo', ['IGX - International Gaming Expo'])
+('Larry Lurr', ['PAX Arena at PAX West 2017'])
+('Elegant', ['Clutch City Clash 2', '2GGC: MkLeo Saga'])
+('Ally', ['PAX Arena at PAX West 2017'])
+('CaptainZack', ['Evo 2017', 'Low Tier City 5'])
+('Raito', ['Evo 2017'])
+
+Losses Other:
+('Ryo', ['IGX - International Gaming Expo'])
+('Chuck Nasty', ['Low Tier City 5'])
+('Ned', ['Port Priority 2: Midwest Invasion', 'Port Priority 2: Midwest Invasion'])
+('Karna', ['Clutch City Clash 2'])
+('AUSMO', ['2GGC: MkLeo Saga'])
+('Scizor', ['2GGC: West Side Saga'])
+('8Bitman/8BitMan', ['Super Smash Con 2017'])
+('Ryusd4567', ['2GGC: MkLeo Saga'])
+('NameLess', ['Super Smash Con 2017'])
+('Houston', ['2GGC: MkLeo Saga'])

@@ -1,0 +1,27 @@
+Player: 9B
+Rank: 49
+Points: 24.350000
+
+Top 10 Record: 0-2
+Top 50 Record: 2-4
+
+Tournaments:
+Dubai Dojo 2: 2nd
+Karisuma 14: 1st
+Sumabato 19: 2nd
+Evo 2017: 25th
+Umebura 27: 9th
+
+Wins Top 50:
+('Fatality', ['Evo 2017'])
+('K9sbruce', ['Evo 2017'])
+
+Losses Top 50:
+('KEN', ['Umebura 27', 'Dubai Dojo 2'])
+('WaDi', ['Evo 2017'])
+('Manny', ['Evo 2017'])
+
+Losses Other:
+('HIKARU', ['Sumabato 19', 'Dubai Dojo 2'])
+('Ri-ma', ['Sumabato 19'])
+('Earth', ['Umebura 27'])

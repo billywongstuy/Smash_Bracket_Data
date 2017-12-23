@@ -1,0 +1,29 @@
+Player: MrConCon
+Rank: 79
+Points: 17.060000
+
+Top 10 Record: 1-4
+Top 50 Record: 1-9
+
+Tournaments:
+IBP Masters Showdown: 7th
+2GGC: MkLeo Saga: 33rd
+2GGC: Arms Saga: 25th
+2GGC: SCR Saga: 33rd
+
+Wins Top 50:
+('Mr.R', ['IBP Masters Showdown'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: Arms Saga'])
+('VoiD', ['IBP Masters Showdown'])
+('Mr.R', ['2GGC: MkLeo Saga', '2GGC: Last Chance Qualifier'])
+('Komorikiri/komorikiri', ['IBP Masters Showdown'])
+('JK', ['2GGC: West Side Saga', '2GGC: MkLeo Saga'])
+('K9sbruce', ['2GGC: Arms Saga'])
+('Locus', ['2GGC: SCR Saga'])
+
+Losses Other:
+('takera', ['2GGC: SCR Saga'])
+('Captain Andrew', ['2GGC: Last Chance Qualifier'])
+('Stroder', ['2GGC: West Side Saga'])

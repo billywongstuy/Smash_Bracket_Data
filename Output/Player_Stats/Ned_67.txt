@@ -1,0 +1,38 @@
+Player: Ned
+Rank: 67
+Points: 19.430000
+
+Top 10 Record: 0-4
+Top 50 Record: 1-13
+
+Tournaments:
+Port Priority 2: Midwest Invasion: 1st
+2GGC: MkLeo Saga: 17th
+DreamHack Atlanta 2017: 17th
+The Big House 7: 25th
+Midwest Mayhem 10: 7th
+Midwest Mayhem 9: 9th
+Super Smash Con 2017: 33rd
+
+Wins Top 50:
+('Zinoto', ['2GGC: MkLeo Saga'])
+
+Losses Top 50:
+('ZeRo', ['Midwest Mayhem 10'])
+('Salem', ['Super Smash Con 2017'])
+('Tweek', ['Midwest Mayhem 9'])
+('Mr.R', ['The Big House 7'])
+('Abadango', ['2GGC: MkLeo Saga'])
+('ESAM', ['DreamHack Atlanta 2017'])
+('Cosmos', ['Midwest Mayhem 9', 'Midwest Mayhem 10'])
+('ANTi', ['DreamHack Atlanta 2017'])
+('Mr.E', ['Showdown: Battle Royale 2'])
+('Raito', ['2GGC: MkLeo Saga'])
+('Javi', ['The Big House 7'])
+('6WX', ['Showdown: Battle Royale 2'])
+
+Losses Other:
+('MattyG', ['Super Smash Con 2017'])
+('Megafox', ['Clutch City Clash 2'])
+('Nicko', ['Clutch City Clash 2'])
+('Konga', ['Port Priority 2: Midwest Invasion'])

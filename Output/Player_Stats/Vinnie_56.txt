@@ -1,0 +1,34 @@
+Player: Vinnie
+Rank: 56
+Points: 22.460000
+
+Top 10 Record: 1-3
+Top 50 Record: 5-7
+
+Tournaments:
+DreamHack Atlanta 2017: 9th
+2GGC: Arms Saga: 13th
+2GGC: Fire Emblem Saga: 25th
+Who's Your Pappy #10: 5th
+
+Wins Top 50:
+('MKLeo', ['DreamHack Atlanta 2017'])
+('falln', ['2GGC: Arms Saga', 'DreamHack Atlanta 2017'])
+('Eon', ["Who's Your Pappy #10"])
+('Locus', ['2GGC: Arms Saga'])
+
+Losses Top 50:
+('Tweek', ['DreamHack Atlanta 2017'])
+('Dabuz', ['DreamHack Atlanta 2017'])
+('KEN', ['2GGC: Fire Emblem Saga'])
+('Komorikiri/komorikiri', ['2GGC: Arms Saga'])
+('Cosmos', ['2GGC: Arms Saga'])
+('Kameme', ['Evo 2017'])
+('Tyrant', ["Who's Your Pappy #10"])
+
+Losses Other:
+('Luhtie', ['Evo 2017'])
+('Shaky', ["Who's Your Pappy #10"])
+('DSS', ['Super Smash Con 2017'])
+('Rich Brown', ['2GGC: Fire Emblem Saga'])
+('Z8', ['Super Smash Con 2017'])

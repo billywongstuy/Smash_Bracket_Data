@@ -1,0 +1,65 @@
+Player: CaptainZack
+Rank: 18
+Points: 48.390000
+
+Top 10 Record: 4-12
+Top 50 Record: 18-31
+
+Tournaments:
+2GGC: SCR Saga: 5th
+TGL & PG Present: Too Hot to Handle: 4th
+The Big House 7: 13th
+Evo 2017: 17th
+Midwest Mayhem 9: 4th
+Super FamiCon 2017: 3rd
+DreamHack Atlanta 2017: 13th
+2GG Championship: 11th
+2GGC: MkLeo Saga: 17th
+Low Tier City 5: 5th
+Shine 2017: 17th
+2GGC: Fire Emblem Saga: 17th
+GameTyrant Expo 2017: 25th
+Super Smash Con 2017: 33rd
+
+Wins Top 50:
+('Salem', ['2GGC: SCR Saga'])
+('Nairo', ['2GGC: SCR Saga', '2GG Championship'])
+('MKLeo', ['PAX Arena at PAX West 2017'])
+('Abadango', ['Low Tier City 5', 'The Big House 7', '2GGC: Fire Emblem Saga'])
+('Komorikiri/komorikiri', ['2GGC: MkLeo Saga'])
+('WaDi', ['Super FamiCon 2017'])
+('Ally', ['2GGC: SCR Saga'])
+('ANTi', ['Evo 2017', 'Super FamiCon 2017'])
+('Marss', ['Shine 2017'])
+('Mr.E', ['TGL & PG Present: Too Hot to Handle'])
+('JK', ['2GGC: SCR Saga'])
+('DarkShad', ['Midwest Mayhem 9'])
+('tyroy', ['Midwest Mayhem 9'])
+('Light', ['Super FamiCon 2017'])
+
+Losses Top 50:
+('ZeRo', ['GameTyrant Expo 2017'])
+('Salem', ['PAX Arena at PAX West 2017'])
+('Nairo', ['Midwest Mayhem 9', 'DreamHack Atlanta 2017', 'PAX Arena at PAX West 2017', 'The Big House 7'])
+('MKLeo', ['2GGC: SCR Saga', 'Shine 2017', '2GGC: Fire Emblem Saga'])
+('Larry Lurr', ['2GGC: SCR Saga', '2GGC: MkLeo Saga'])
+('VoiD', ['PAX Arena at PAX West 2017'])
+('Abadango', ['2GG Championship'])
+('ESAM', ['Low Tier City 5', 'TGL & PG Present: Too Hot to Handle', 'TGL & PG Present: Too Hot to Handle', 'Super FamiCon 2017', 'Super FamiCon 2017'])
+('Mistake', ['Low Tier City 5'])
+('Komorikiri/komorikiri', ['2GG Championship'])
+('WaDi', ['Super Smash Con 2017'])
+('ANTi', ['DreamHack Atlanta 2017', 'PAX Arena at PAX West 2017'])
+('Samsora', ['2GGC: Fire Emblem Saga'])
+('Marss', ['The Big House 7'])
+('MVD', ['GameTyrant Expo 2017'])
+('Zinoto', ['Midwest Mayhem 9'])
+('NAKAT', ['Evo 2017'])
+('tyroy', ['Showdown: Battle Royale 2'])
+('K9sbruce', ['2GGC: MkLeo Saga'])
+('Javi', ['Showdown: Battle Royale 2'])
+
+Losses Other:
+('Ryuga', ['Super Smash Con 2017'])
+('WonderBread', ['Evo 2017'])
+('Dark Wizzy', ['Shine 2017'])

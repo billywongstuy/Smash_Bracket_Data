@@ -1,0 +1,61 @@
+Player: Komorikiri/komorikiri
+Rank: 14
+Points: 51.650000
+
+Top 10 Record: 4-16
+Top 50 Record: 19-22
+
+Tournaments:
+2GGC: Fire Emblem Saga: 3rd
+Shine 2017: 7th
+2GGC: Arms Saga: 5th
+IBP Masters Showdown: 4th
+Evo 2017: 13th
+The Big House 7: 9th
+2GGC: SCR Saga: 9th
+2GG Championship: 16th
+Super Smash Con 2017: 17th
+GameTyrant Expo 2017: 17th
+2GGC: MkLeo Saga: 25th
+Sumabato 20: 5th
+Karisuma 14: 5th
+
+Wins Top 50:
+('MKLeo', ['2GGC: Fire Emblem Saga'])
+('Larry Lurr', ['2GGC: Arms Saga', 'The Big House 7'])
+('Mr.R', ['Evo 2017'])
+('Elegant', ['2GGC: Arms Saga'])
+('WaDi', ['Shine 2017'])
+('CaptainZack', ['2GG Championship'])
+('Cosmos', ['GameTyrant Expo 2017'])
+('Manny', ['2GGC: Fire Emblem Saga'])
+('Mr.E', ['IBP Masters Showdown'])
+('Zinoto', ['Shine 2017'])
+('Charliedaking', ['2GGC: MkLeo Saga', 'IBP Masters Showdown'])
+('NAKAT', ['2GGC: Fire Emblem Saga'])
+('falln', ['Super Smash Con 2017'])
+('tyroy', ['Shine 2017'])
+('Javi', ['2GGC: Fire Emblem Saga'])
+('Zenyou', ['Evo 2017', '2GGC: SCR Saga'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: SCR Saga'])
+('Salem', ['Shine 2017', 'The Big House 7', '2GGC: Fire Emblem Saga'])
+('Nairo', ['Super Smash Con 2017', '2GGC: Fire Emblem Saga', '2GG Championship'])
+('MKLeo', ['Super Smash Con 2017', 'GameTyrant Expo 2017', 'IBP Masters Showdown'])
+('Larry Lurr', ['GameTyrant Expo 2017', 'IBP Masters Showdown'])
+('Dabuz', ['2GGC: Arms Saga', 'Evo 2017'])
+('VoiD', ['2GGC: Arms Saga', 'Evo 2017'])
+('Abadango', ['2GG Championship'])
+('Mistake', ['2GGC: SCR Saga'])
+('Ally', ['Shine 2017', 'The Big House 7'])
+('CaptainZack', ['2GGC: MkLeo Saga'])
+('Tsu', ['2GGC: MkLeo Saga'])
+
+Losses Other:
+('Masha', ['Karisuma 14'])
+('Ron', ['Sumabato 20'])
+('Kuro', ['Sumabato 21'])
+('ikep', ['Karisuma 14'])
+('Selcia', ['Sumabato 21'])
+('Sigma', ['Sumabato 20'])

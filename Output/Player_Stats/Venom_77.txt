@@ -1,0 +1,30 @@
+Player: Venom
+Rank: 77
+Points: 17.650000
+
+Top 10 Record: 1-3
+Top 50 Record: 1-8
+
+Tournaments:
+Canada Cup 2017: 5th
+2GGC: SCR Saga: 17th
+DreamHack Montreal 2017: 7th
+Shine 2017: 25th
+
+Wins Top 50:
+('Mr.R', ['2GGC: SCR Saga'])
+
+Losses Top 50:
+('Larry Lurr', ['Shine 2017', 'DreamHack Montreal 2017', 'Canada Cup 2017'])
+('Mistake', ['Get On My Level 2017'])
+('Komorikiri/komorikiri', ['2GGC: SCR Saga'])
+('ANTi', ['DreamHack Montreal 2017'])
+('Zinoto', ['Shine 2017', 'Canada Cup 2017'])
+
+Losses Other:
+('Patches', ['DreamHack Atlanta 2017'])
+('TheGount', ['GatorLAN Fall 2017'])
+('Kogarasuma', ['GatorLAN Fall 2017'])
+('ChillyChilli', ['DreamHack Atlanta 2017'])
+('PiXL', ['2GGC: SCR Saga'])
+('Strike', ['Get On My Level 2017'])

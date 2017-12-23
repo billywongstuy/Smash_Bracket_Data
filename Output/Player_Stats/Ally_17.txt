@@ -1,0 +1,58 @@
+Player: Ally
+Rank: 17
+Points: 49.090000
+
+Top 10 Record: 7-17
+Top 50 Record: 21-26
+
+Tournaments:
+Shine 2017: 5th
+The Big House 7: 7th
+2GG Championship: 9th
+2GGC: SCR Saga: 9th
+DreamHack Atlanta 2017: 13th
+DreamHack Montreal 2017: 5th
+IBP Masters Showdown: 9th
+Canada Cup 2017: 5th
+GameTyrant Expo 2017: 25th
+Super Smash Con 2017: 33rd
+Evo 2017: 49th
+
+Wins Top 50:
+('Nairo', ['2GG Championship'])
+('Tweek', ['Shine 2017', 'PAX Arena at PAX West 2017', '2GG Championship'])
+('Larry Lurr', ['PAX Arena at PAX West 2017'])
+('VoiD', ['PAX Arena at PAX West 2017', 'PAX Arena at PAX West 2017'])
+('Mistake', ['Shine 2017'])
+('Komorikiri/komorikiri', ['Shine 2017', 'The Big House 7'])
+('WaDi', ['2GG Championship'])
+('ANTi', ['2GGC: SCR Saga', 'PAX Arena at PAX West 2017'])
+('Marss', ['The Big House 7'])
+('Mr.E', ['The Big House 7'])
+('MVD', ['DreamHack Montreal 2017'])
+('Charliedaking', ['2GGC: SCR Saga'])
+('falln', ['IBP Masters Showdown'])
+('Locus', ['2GGC: SCR Saga', 'GameTyrant Expo 2017'])
+('Shoyo James', ['Shine 2017'])
+
+Losses Top 50:
+('ZeRo', ['DreamHack Atlanta 2017', 'PAX Arena at PAX West 2017'])
+('Salem', ['Shine 2017', 'PAX Arena at PAX West 2017', '2GG Championship'])
+('Nairo', ['PAX Arena at PAX West 2017'])
+('MKLeo', ['2GGC: SCR Saga', 'Shine 2017'])
+('Larry Lurr', ['DreamHack Montreal 2017', 'GameTyrant Expo 2017', 'Canada Cup 2017'])
+('Dabuz', ['2GG Championship'])
+('KEN', ['IBP Masters Showdown'])
+('VoiD', ['DreamHack Atlanta 2017', '2GG Championship'])
+('Mr.R', ['The Big House 7', 'IBP Masters Showdown'])
+('ESAM', ['DreamHack Montreal 2017'])
+('Elegant', ['GameTyrant Expo 2017', '2GG Championship'])
+('CaptainZack', ['2GGC: SCR Saga'])
+('Lima', ['Canada Cup 2017'])
+('Marss', ['The Big House 7'])
+('MVD', ['Evo 2017'])
+('DarkShad', ['Super Smash Con 2017'])
+('6WX', ['Super Smash Con 2017'])
+
+Losses Other:
+('Chanshu', ['Evo 2017'])

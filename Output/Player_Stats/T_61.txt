@@ -1,0 +1,35 @@
+Player: T
+Rank: 61
+Points: 20.800000
+
+Top 10 Record: 0-4
+Top 50 Record: 3-10
+
+Tournaments:
+2GG Championship: 16th
+Dubai Dojo 2: 3rd
+2GGC: West Side Saga: 9th
+2GGC: MkLeo Saga: 33rd
+
+Wins Top 50:
+('Elegant', ['2GGC: West Side Saga'])
+('Shuton', ['Dubai Dojo 2'])
+('Eon', ['2GGC: West Side Saga'])
+
+Losses Top 50:
+('Dabuz', ['2GG Championship'])
+('KEN', ['Dubai Dojo 2', '2GGC: MkLeo Saga', '2GG Championship'])
+('Abadango', ['Umebura 27'])
+('Samsora', ['2GG Championship'])
+('Tsu', ['2GGC: West Side Saga', 'Umebura 30'])
+('Zinoto', ['2GGC: MkLeo Saga'])
+('9B', ['Dubai Dojo 2'])
+
+Losses Other:
+('Brood', ['Umebura 28'])
+('Yuzu', ['Umebura 29'])
+('Teb', ['2GGC: West Side Saga'])
+('Some', ['Umebura 29'])
+('ProtoBanham', ['Umebura 30'])
+('KaPMk', ['Umebura 28'])
+('bAhuto', ['Umebura 27'])

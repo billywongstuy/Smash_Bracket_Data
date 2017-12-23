@@ -1,0 +1,63 @@
+Player: Dabuz
+Rank: 7
+Points: 70.930000
+
+Top 10 Record: 4-13
+Top 50 Record: 37-21
+
+Tournaments:
+The Big House 7: 1st
+2GGC: Arms Saga: 1st
+2GGC: MkLeo Saga: 5th
+2GG Championship: 4th
+Evo 2017: 7th
+DreamHack Atlanta 2017: 7th
+TGL & PG Present: Too Hot to Handle: 2nd
+Super FamiCon 2017: 1st
+GameTyrant Expo 2017: 9th
+DreamHack Montreal 2017: 4th
+ALPHA: 1st
+SMASHADELPHIA 2017: 2nd
+Super Smash Con 2017: 33rd
+
+Wins Top 50:
+('ZeRo', ['2GGC: Arms Saga', '2GGC: Arms Saga'])
+('Salem', ['2GGC: MkLeo Saga'])
+('Nairo', ['The Big House 7'])
+('Abadango', ['2GG Championship'])
+('ESAM', ['SMASHADELPHIA 2017', 'TGL & PG Present: Too Hot to Handle', 'Super FamiCon 2017', 'Super FamiCon 2017'])
+('Mistake', ['GameTyrant Expo 2017'])
+('Komorikiri/komorikiri', ['2GGC: Arms Saga', 'Evo 2017'])
+('Elegant', ['2GGC: MkLeo Saga', '2GG Championship', '2GG Championship'])
+('WaDi', ['SMASHADELPHIA 2017', 'ALPHA'])
+('Ally', ['2GG Championship'])
+('Cosmos', ['The Big House 7'])
+('Manny', ['Evo 2017', 'TGL & PG Present: Too Hot to Handle'])
+('ANTi', ['DreamHack Montreal 2017', 'Super FamiCon 2017'])
+('Samsora', ['2GG Championship'])
+('Lima', ['Evo 2017', 'GameTyrant Expo 2017'])
+('Marss', ['GameTyrant Expo 2017', 'The Big House 7'])
+('Mr.E', ['DreamHack Atlanta 2017'])
+('MVD', ['The Big House 7', '2GGC: MkLeo Saga'])
+('tyroy', ['The Big House 7'])
+('K9sbruce', ['Evo 2017', 'DreamHack Atlanta 2017'])
+('Locus', ['2GGC: Arms Saga'])
+('Zenyou', ['GameTyrant Expo 2017'])
+('Shoyo James', ['SMASHADELPHIA 2017'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: Arms Saga', '2GG Championship', '2GG Championship'])
+('Salem', ['2GG Championship'])
+('Nairo', ['DreamHack Atlanta 2017', '2GG Championship'])
+('Tweek', ['Evo 2017', 'Super Smash Con 2017', '2GGC: MkLeo Saga'])
+('Larry Lurr', ['DreamHack Montreal 2017'])
+('KEN', ['Evo 2017', '2GGC: MkLeo Saga', '2GG Championship'])
+('ESAM', ['SMASHADELPHIA 2017', 'SMASHADELPHIA 2017', 'DreamHack Atlanta 2017', 'DreamHack Montreal 2017'])
+('Manny', ['TGL & PG Present: Too Hot to Handle', 'TGL & PG Present: Too Hot to Handle'])
+('Samsora', ['GameTyrant Expo 2017'])
+('Raito', ['GameTyrant Expo 2017'])
+
+Losses Other:
+('Jimbabwe', ['Shine 2017'])
+('Muj', ['Super Smash Con 2017'])
+('CTRL B', ['Shine 2017'])

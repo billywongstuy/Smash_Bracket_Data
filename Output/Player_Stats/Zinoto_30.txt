@@ -1,0 +1,50 @@
+Player: Zinoto
+Rank: 30
+Points: 34.440000
+
+Top 10 Record: 0-10
+Top 50 Record: 9-16
+
+Tournaments:
+GameTyrant Expo 2017: 13th
+The Big House 7: 13th
+Evo 2017: 17th
+2GGC: West Side Saga: 9th
+Canada Cup 2017: 4th
+Midwest Mayhem 9: 5th
+2GGC: MkLeo Saga: 25th
+Shine 2017: 17th
+
+Wins Top 50:
+('Abadango', ['GameTyrant Expo 2017'])
+('ESAM', ['GameTyrant Expo 2017'])
+('Mistake', ['The Big House 7', 'Canada Cup 2017'])
+('CaptainZack', ['Midwest Mayhem 9'])
+('Cosmos', ['Evo 2017'])
+('Lima', ['2GGC: West Side Saga'])
+('Light', ['The Big House 7'])
+('Zenyou', ['2GGC: West Side Saga'])
+
+Losses Top 50:
+('ZeRo', ['Midwest Mayhem 9', '2GGC: West Side Saga', 'The Big House 7'])
+('Nairo', ['Midwest Mayhem 9', 'Evo 2017', '2GGC: MkLeo Saga'])
+('MKLeo', ['Canada Cup 2017'])
+('Tweek', ['2GGC: West Side Saga'])
+('Larry Lurr', ['GameTyrant Expo 2017'])
+('VoiD', ['The Big House 7'])
+('Komorikiri/komorikiri', ['Shine 2017'])
+('WaDi', ['Shine 2017'])
+('Lima', ['Canada Cup 2017'])
+('JK', ['Evo 2017'])
+('Tyrant', ['GameTyrant Expo 2017'])
+('Shoyo James', ['Showdown: Battle Royale 2'])
+
+Losses Other:
+('Fanana', ['Super Smash Con 2017'])
+('Jig', ['Midwest Mayhem 10'])
+('Ned', ['2GGC: MkLeo Saga'])
+('Drift', ['Super Smash Con 2017'])
+('JJROCKETS', ['Showdown: Battle Royale 2'])
+('SpaceAustralia!', ['Get On My Level 2017'])
+('Blueman', ['Get On My Level 2017'])
+('Shadic', ['Midwest Mayhem 10'])

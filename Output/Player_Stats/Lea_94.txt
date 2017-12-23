@@ -1,0 +1,25 @@
+Player: Lea
+Rank: 94
+Points: 14.730000
+
+Top 10 Record: 1-1
+Top 50 Record: 2-3
+
+Tournaments:
+Umebura 30: 5th
+Umebura 27: 13th
+
+Wins Top 50:
+('KEN', ['Umebura 30'])
+('Kameme', ['Umebura 30'])
+
+Losses Top 50:
+('KEN', ['Umebura 28'])
+('Choco', ['Umebura 28'])
+('Raito', ['Umebura 27'])
+
+Losses Other:
+('uryu', ['Umebura 29'])
+('Jill', ['Umebura 29'])
+('Onpu', ['Umebura 27'])
+('bAhuto', ['Umebura 30', 'Umebura 30'])

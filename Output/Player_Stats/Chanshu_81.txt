@@ -1,0 +1,32 @@
+Player: Chanshu
+Rank: 81
+Points: 16.590000
+
+Top 10 Record: 0-1
+Top 50 Record: 1-4
+
+Tournaments:
+Sumabato 22: 2nd
+Evo 2017: 33rd
+2GGC: SCR Saga: 25th
+
+Wins Top 50:
+('Ally', ['Evo 2017'])
+
+Losses Top 50:
+('VoiD', ['2GGC: SCR Saga'])
+('Kameme', ['2GGC: SCR Saga'])
+('Locus', ['Evo 2017'])
+('9B', ['Sumabato 19'])
+
+Losses Other:
+('Paseriman', ['Karisuma 14'])
+('Wrath', ['Evo 2017'])
+('NGA', ['Sumabato 20'])
+('Ri-ma', ['Sumabato 21'])
+('Ginko', ['Sumabato 19'])
+('Edge', ['Karisuma 14'])
+('Kazami', ['Sumabato 20'])
+('Sigma', ['Sumabato 22'])
+('Mao', ['Sumabato 21'])
+('Masha', ['Sumabato 22'])

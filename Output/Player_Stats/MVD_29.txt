@@ -1,0 +1,51 @@
+Player: MVD
+Rank: 29
+Points: 34.560000
+
+Top 10 Record: 2-6
+Top 50 Record: 8-16
+
+Tournaments:
+The Big House 7: 5th
+Super Smash Con 2017: 17th
+GameTyrant Expo 2017: 17th
+2GGC: MkLeo Saga: 25th
+Shine 2017: 17th
+DreamHack Atlanta 2017: 17th
+TGL Presents: Divided: 3rd
+Evo 2017: 33rd
+DreamHack Montreal 2017: 9th
+DreamHack Denver 2017: 9th
+TGL & PG Present: Too Hot to Handle: 13th
+
+Wins Top 50:
+('Tweek', ['The Big House 7'])
+('Mr.R', ['The Big House 7'])
+('Abadango', ['The Big House 7'])
+('Ally', ['Evo 2017'])
+('CaptainZack', ['GameTyrant Expo 2017'])
+('Samsora', ['Super Smash Con 2017'])
+('tyroy', ['Super Smash Con 2017'])
+('Tyrant', ['2GGC: MkLeo Saga'])
+
+Losses Top 50:
+('ZeRo', ['Shine 2017'])
+('Dabuz', ['The Big House 7', '2GGC: MkLeo Saga'])
+('VoiD', ['DreamHack Atlanta 2017'])
+('Mr.R', ['DreamHack Atlanta 2017', '2GGC: MkLeo Saga'])
+('Abadango', ['Evo 2017'])
+('ESAM', ['TGL Presents: Divided'])
+('Ally', ['DreamHack Montreal 2017'])
+('Cosmos', ['DreamHack Denver 2017'])
+('Manny', ['TGL Presents: Divided'])
+('Marss', ['Shine 2017', 'The Big House 7'])
+('DarkShad', ['GameTyrant Expo 2017'])
+('Zenyou', ['GameTyrant Expo 2017'])
+('Shoyo James', ['Super Smash Con 2017'])
+
+Losses Other:
+('MattyG', ['TGL & PG Present: Too Hot to Handle'])
+('SuperGirlKels', ['DreamHack Montreal 2017'])
+('Wrath', ['Evo 2017'])
+('Dakpo', ['DreamHack Denver 2017'])
+('Cashmere', ['Super Smash Con 2017', 'TGL & PG Present: Too Hot to Handle'])

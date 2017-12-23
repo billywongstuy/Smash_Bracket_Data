@@ -1,0 +1,56 @@
+Player: Mr.E
+Rank: 28
+Points: 34.750000
+
+Top 10 Record: 2-7
+Top 50 Record: 7-19
+
+Tournaments:
+IBP Masters Showdown: 5th
+The Big House 7: 13th
+DreamHack Atlanta 2017: 13th
+2GGC: Fire Emblem Saga: 13th
+Super Smash Con 2017: 17th
+Evo 2017: 33rd
+Shine 2017: 25th
+TGL & PG Present: Too Hot to Handle: 9th
+2GGC: MkLeo Saga: 33rd
+Showdown: Battle Royale 2: 9th
+GameTyrant Expo 2017: 33rd
+
+Wins Top 50:
+('Tweek', ['The Big House 7'])
+('Larry Lurr', ['IBP Masters Showdown'])
+('Fatality', ['DreamHack Atlanta 2017', 'DreamHack Atlanta 2017'])
+('K9sbruce', ['2GGC: Fire Emblem Saga'])
+('Eon', ['2GGC: Fire Emblem Saga'])
+('Javi', ['2GGC: MkLeo Saga'])
+
+Losses Top 50:
+('ZeRo', ['Evo 2017'])
+('Tweek', ['2GGC: MkLeo Saga'])
+('Larry Lurr', ['DreamHack Atlanta 2017'])
+('Dabuz', ['DreamHack Atlanta 2017'])
+('KEN', ['IBP Masters Showdown'])
+('VoiD', ['The Big House 7', '2GGC: Fire Emblem Saga'])
+('Komorikiri/komorikiri', ['IBP Masters Showdown'])
+('Ally', ['The Big House 7'])
+('CaptainZack', ['TGL & PG Present: Too Hot to Handle'])
+('ANTi', ['Shine 2017'])
+('Lima', ['Evo 2017'])
+('tyroy', ['Showdown: Battle Royale 2'])
+('Light', ['Shine 2017'])
+('Tyrant', ['GameTyrant Expo 2017'])
+('K9sbruce', ['2GGC: MkLeo Saga'])
+('Locus', ['2GGC: Last Chance Qualifier'])
+('6WX', ['Super Smash Con 2017'])
+('Shoyo James', ['Showdown: Battle Royale 2'])
+
+Losses Other:
+('Xzax', ['GameTyrant Expo 2017'])
+('LingLing', ['ALPHA'])
+('Angel Cortes', ['ALPHA'])
+('Legit', ['Super Smash Con 2017'])
+('DSS', ['2GGC: Last Chance Qualifier'])
+('dyr', ['TGL & PG Present: Too Hot to Handle'])
+('Ac', ['2GGC: Fire Emblem Saga'])

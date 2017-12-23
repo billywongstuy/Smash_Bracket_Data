@@ -1,0 +1,26 @@
+Player: Masha
+Rank: 84
+Points: 16.130000
+
+Top 10 Record: 0-1
+Top 50 Record: 1-3
+
+Tournaments:
+Karisuma 14: 4th
+Sumabato 19: 5th
+Umebura 29: 9th
+
+Wins Top 50:
+('Komorikiri/komorikiri', ['Karisuma 14'])
+
+Losses Top 50:
+('KEN', ['Umebura 29'])
+('9B', ['Karisuma 14', 'Sumabato 19'])
+
+Losses Other:
+('Taiheita', ['Karisuma 14'])
+('Kuro', ['Umebura 29'])
+('HIKARU', ['Sumabato 20'])
+('Edge', ['Sumabato 19'])
+('Kome', ['Sumabato 22'])
+('Sigma', ['Sumabato 20', 'Sumabato 22'])

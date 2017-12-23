@@ -1,0 +1,49 @@
+Player: K9sbruce
+Rank: 43
+Points: 26.180000
+
+Top 10 Record: 0-5
+Top 50 Record: 6-13
+
+Tournaments:
+2GGC: MkLeo Saga: 13th
+2GGC: Arms Saga: 17th
+2GGC: Last Chance Qualifier: 5th
+IBP Masters Showdown: 17th
+DreamHack Atlanta 2017: 33rd
+2GGC: SCR Saga: 33rd
+Evo 2017: 49th
+2GGC: Fire Emblem Saga: 49th
+
+Wins Top 50:
+('CaptainZack', ['2GGC: MkLeo Saga'])
+('Marss', ['2GGC: MkLeo Saga'])
+('Mr.E', ['2GGC: MkLeo Saga'])
+('Shuton', ['2GGC: MkLeo Saga'])
+('Tyrant', ['2GGC: SCR Saga'])
+('Locus', ['2GGC: Last Chance Qualifier'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: SCR Saga'])
+('Tweek', ['2GGC: West Side Saga'])
+('Dabuz', ['Evo 2017', 'DreamHack Atlanta 2017'])
+('Mr.R', ['2GGC: Last Chance Qualifier'])
+('Abadango', ['2GGC: MkLeo Saga'])
+('WaDi', ['2GGC: MkLeo Saga'])
+('Cosmos', ['2GGC: Fire Emblem Saga'])
+('Mr.E', ['2GGC: Fire Emblem Saga'])
+('Charliedaking', ['IBP Masters Showdown'])
+('NAKAT', ['2GGC: Arms Saga'])
+('falln', ['2GGC: Last Chance Qualifier'])
+('9B', ['Evo 2017'])
+
+Losses Other:
+('Aarvark', ['IBP Masters Showdown'])
+('SCB NCJacobT', ['2GGC: Fire Emblem Saga'])
+('G Jay', ['The Big House 7'])
+('yeti', ['2GGC: SCR Saga'])
+('Ke-ya', ['2GGC: Fire Emblem Saga'])
+('Sol', ['2GGC: Arms Saga'])
+('Apa~', ['2GGC: West Side Saga'])
+('Emerald', ['The Big House 7'])
+('RFang', ['DreamHack Atlanta 2017'])

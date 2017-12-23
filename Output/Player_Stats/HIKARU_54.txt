@@ -1,0 +1,29 @@
+Player: HIKARU
+Rank: 54
+Points: 22.590000
+
+Top 10 Record: 0-2
+Top 50 Record: 3-3
+
+Tournaments:
+Sumabato 19: 1st
+2GGC: MkLeo Saga: 17th
+Dubai Dojo 2: 5th
+Sumabato 20: 5th
+
+Wins Top 50:
+('Charliedaking', ['2GGC: MkLeo Saga'])
+('9B', ['Sumabato 19', 'Dubai Dojo 2'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: MkLeo Saga'])
+('Salem', ['2GGC: MkLeo Saga'])
+('Choco', ['Sumabato 21'])
+
+Losses Other:
+('Aki', ['Sumabato 20'])
+('Lagnel', ['Sumabato 21'])
+('T', ['Dubai Dojo 2'])
+('Edge', ['Dubai Dojo 2', 'Sumabato 20'])
+('Nishiya', ['Sumabato 22'])
+('Selcia', ['Sumabato 22'])

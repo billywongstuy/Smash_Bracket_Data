@@ -1,0 +1,49 @@
+Player: Manny
+Rank: 20
+Points: 45.510000
+
+Top 10 Record: 3-5
+Top 50 Record: 17-10
+
+Tournaments:
+2GGC: Fire Emblem Saga: 5th
+TGL & PG Present: Too Hot to Handle: 1st
+Showdown: Battle Royale 2: 2nd
+Evo 2017: 13th
+TGL Presents: Divided: 1st
+UNLOCKED: 4th
+DreamHack Atlanta 2017: 25th
+IBP Masters Showdown: 17th
+
+Wins Top 50:
+('Tweek', ['2GGC: Fire Emblem Saga'])
+('Dabuz', ['TGL & PG Present: Too Hot to Handle', 'TGL & PG Present: Too Hot to Handle'])
+('ESAM', ['TGL Presents: Divided', 'TGL Presents: Divided', 'TGL & PG Present: Too Hot to Handle'])
+('Elegant', ['Evo 2017', '2GGC: Fire Emblem Saga'])
+('WaDi', ['Showdown: Battle Royale 2'])
+('Cosmos', ['Showdown: Battle Royale 2'])
+('Samsora', ['UNLOCKED', 'Showdown: Battle Royale 2', 'TGL & PG Present: Too Hot to Handle'])
+('MVD', ['TGL Presents: Divided'])
+('Shuton', ['2GGC: Fire Emblem Saga'])
+('6WX', ['Showdown: Battle Royale 2'])
+('9B', ['Evo 2017'])
+
+Losses Top 50:
+('MKLeo', ['DreamHack Atlanta 2017'])
+('Tweek', ['2GGC: Fire Emblem Saga'])
+('Dabuz', ['Evo 2017', 'TGL & PG Present: Too Hot to Handle'])
+('Mr.R', ['IBP Masters Showdown'])
+('Komorikiri/komorikiri', ['2GGC: Fire Emblem Saga'])
+('Fatality', ['Showdown: Battle Royale 2', 'Showdown: Battle Royale 2'])
+('JK', ['Evo 2017'])
+('falln', ['DreamHack Atlanta 2017'])
+
+Losses Other:
+('ShiNe', ['2GGC: MkLeo Saga'])
+('The Countess', ['2GGC: MkLeo Saga'])
+('TheBombBimbi', ['Super Smash Con 2017'])
+('Nato', ['Super Smash Con 2017'])
+('Razo', ['2GGC: MkLeo Saga'])
+('AEMehr', ['IBP Masters Showdown'])
+('MastaMario', ['2GGC: MkLeo Saga'])
+('ScAtt', ['UNLOCKED', 'UNLOCKED'])

@@ -1,0 +1,32 @@
+Player: Shoyo James
+Rank: 50
+Points: 24.240000
+
+Top 10 Record: 0-2
+Top 50 Record: 4-7
+
+Tournaments:
+Super Smash Con 2017: 7th
+Showdown: Battle Royale 2: 7th
+Shine 2017: 25th
+SMASHADELPHIA 2017: 5th
+
+Wins Top 50:
+('Mr.E', ['Showdown: Battle Royale 2'])
+('MVD', ['Super Smash Con 2017'])
+('Zinoto', ['Showdown: Battle Royale 2'])
+('DarkShad', ['Super Smash Con 2017'])
+
+Losses Top 50:
+('Nairo', ['Super Smash Con 2017'])
+('Dabuz', ['SMASHADELPHIA 2017'])
+('Mistake', ['Super Smash Con 2017'])
+('Ally', ['Shine 2017'])
+('Cosmos', ['Showdown: Battle Royale 2'])
+('Fatality', ['Showdown: Battle Royale 2'])
+('Locus', ['Shine 2017'])
+
+Losses Other:
+('Komota', ['The Big House 7'])
+('Dray', ['The Big House 7'])
+('Mew2King', ['SMASHADELPHIA 2017'])

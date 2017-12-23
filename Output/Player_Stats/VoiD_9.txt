@@ -1,0 +1,68 @@
+Player: VoiD
+Rank: 9
+Points: 62.900000
+
+Top 10 Record: 9-16
+Top 50 Record: 32-27
+
+Tournaments:
+DreamHack Atlanta 2017: 2nd
+Evo 2017: 7th
+2GGC: Fire Emblem Saga: 5th
+2GGC: SCR Saga: 5th
+2GGC: Arms Saga: 4th
+2GG Championship: 7th
+Super Smash Con 2017: 9th
+The Big House 7: 9th
+IBP Masters Showdown: 5th
+Shine 2017: 13th
+2GGC: MkLeo Saga: 17th
+GameTyrant Expo 2017: 17th
+
+Wins Top 50:
+('Nairo', ['2GGC: SCR Saga'])
+('MKLeo', ['2GGC: Fire Emblem Saga'])
+('Tweek', ['2GGC: Arms Saga', 'DreamHack Atlanta 2017', 'PAX Arena at PAX West 2017', '2GG Championship'])
+('Larry Lurr', ['DreamHack Atlanta 2017', 'PAX Arena at PAX West 2017', '2GGC: Fire Emblem Saga'])
+('Mistake', ['2GGC: SCR Saga'])
+('Komorikiri/komorikiri', ['2GGC: Arms Saga', 'Evo 2017'])
+('Ally', ['DreamHack Atlanta 2017', '2GG Championship'])
+('CaptainZack', ['PAX Arena at PAX West 2017'])
+('Cosmos', ['2GGC: Arms Saga', 'Evo 2017'])
+('Samsora', ['DreamHack Atlanta 2017'])
+('Tsu', ['2GGC: Arms Saga'])
+('Mr.E', ['The Big House 7', '2GGC: Fire Emblem Saga'])
+('MVD', ['DreamHack Atlanta 2017'])
+('Zinoto', ['The Big House 7'])
+('Charliedaking', ['2GGC: Fire Emblem Saga'])
+('Shuton', ['2GGC: Fire Emblem Saga'])
+('JK', ['Super Smash Con 2017', '2GGC: Fire Emblem Saga'])
+('Raito', ['2GGC: MkLeo Saga'])
+('tyroy', ['Shine 2017'])
+('Tyrant', ['GameTyrant Expo 2017'])
+('Zenyou', ['IBP Masters Showdown'])
+('6WX', ['Super Smash Con 2017'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: Arms Saga', 'Super Smash Con 2017', 'PAX Arena at PAX West 2017'])
+('Salem', ['DreamHack Atlanta 2017', 'DreamHack Atlanta 2017', '2GG Championship'])
+('Nairo', ['Evo 2017', 'Super Smash Con 2017', '2GGC: Fire Emblem Saga'])
+('MKLeo', ['IBP Masters Showdown'])
+('Larry Lurr', ['2GGC: SCR Saga', 'PAX Arena at PAX West 2017', 'IBP Masters Showdown'])
+('KEN', ['2GGC: Arms Saga', '2GG Championship'])
+('Mr.R', ['2GGC: MkLeo Saga'])
+('Mistake', ['2GGC: SCR Saga'])
+('WaDi', ['2GG Championship'])
+('Ally', ['PAX Arena at PAX West 2017', 'PAX Arena at PAX West 2017'])
+('Cosmos', ['The Big House 7'])
+('Lima', ['2GGC: MkLeo Saga'])
+('Marss', ['GameTyrant Expo 2017', 'The Big House 7'])
+('Raito', ['GameTyrant Expo 2017'])
+('tyroy', ['Shine 2017'])
+('Light', ['Shine 2017'])
+
+Losses Other:
+('Mystearica', ['2GGC: Fire Emblem Saga'])
+('Konga', ['Evo 2017', 'PAX Arena at PAX West 2017'])
+('Fox16', ['2GGC: West Side Saga'])
+('Joledo', ['2GGC: West Side Saga'])

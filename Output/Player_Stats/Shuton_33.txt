@@ -1,0 +1,37 @@
+Player: Shuton
+Rank: 33
+Points: 30.780000
+
+Top 10 Record: 3-4
+Top 50 Record: 7-7
+
+Tournaments:
+2GGC: West Side Saga: 3rd
+2GGC: Fire Emblem Saga: 7th
+2GG Championship: 16th
+2GGC: MkLeo Saga: 49th
+
+Wins Top 50:
+('ZeRo', ['2GGC: West Side Saga'])
+('MKLeo', ['2GG Championship'])
+('KEN', ['2GGC: West Side Saga'])
+('WaDi', ['2GGC: Fire Emblem Saga'])
+('Charliedaking', ['2GGC: Fire Emblem Saga'])
+('falln', ['2GGC: West Side Saga'])
+('Eon', ['2GGC: West Side Saga'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: West Side Saga'])
+('Salem', ['2GG Championship'])
+('Tweek', ['2GGC: West Side Saga'])
+('VoiD', ['2GGC: Fire Emblem Saga'])
+('Manny', ['2GGC: Fire Emblem Saga'])
+('Kirihara', ['2GG Championship'])
+('K9sbruce', ['2GGC: MkLeo Saga'])
+
+Losses Other:
+('Ron', ['Dubai Dojo 2'])
+('DSS', ['2GGC: MkLeo Saga'])
+('LightSpeed', ['2GGC: MkLeo Saga'])
+('T', ['Dubai Dojo 2'])
+('Ferny', ['2GGC: MkLeo Saga'])

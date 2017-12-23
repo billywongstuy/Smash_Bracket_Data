@@ -1,0 +1,66 @@
+Player: KEN
+Rank: 8
+Points: 68.100000
+
+Top 10 Record: 11-11
+Top 50 Record: 32-19
+
+Tournaments:
+2GGC: MkLeo Saga: 2nd
+Evo 2017: 5th
+2GGC: Arms Saga: 3rd
+2GG Championship: 5th
+2GGC: West Side Saga: 4th
+IBP Masters Showdown: 3rd
+Dubai Dojo 2: 1st
+Umebura 28: 1st
+Syndicate 2017: 2nd
+Rikabura 8: 1st
+Umebura 29: 5th
+Umebura 30: 5th
+Umebura 27: 7th
+2GGC: Fire Emblem Saga: 17th
+
+Wins Top 50:
+('Nairo', ['2GGC: West Side Saga', '2GGC: MkLeo Saga'])
+('MKLeo', ['2GGC: MkLeo Saga'])
+('Tweek', ['2GGC: Arms Saga'])
+('Larry Lurr', ['2GGC: Arms Saga', '2GGC: MkLeo Saga'])
+('Dabuz', ['Evo 2017', '2GGC: MkLeo Saga', '2GG Championship'])
+('VoiD', ['2GGC: Arms Saga', '2GG Championship'])
+('Elegant', ['2GGC: MkLeo Saga'])
+('Ally', ['IBP Masters Showdown'])
+('ANTi', ['Evo 2017'])
+('Samsora', ['2GG Championship'])
+('Lima', ['2GGC: MkLeo Saga'])
+('Kirihara', ['Umebura 28', 'Rikabura 8', 'Rikabura 8'])
+('Tsu', ['2GGC: West Side Saga', 'Rikabura 8'])
+('Choco', ['Umebura 28'])
+('Mr.E', ['IBP Masters Showdown'])
+('Charliedaking', ['2GGC: Arms Saga', 'Evo 2017', '2GGC: West Side Saga'])
+('NAKAT', ['2GGC: Arms Saga'])
+('JK', ['Evo 2017'])
+('Raito', ['Evo 2017', '2GGC: MkLeo Saga'])
+('9B', ['Umebura 27', 'Dubai Dojo 2'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: Arms Saga', 'Evo 2017', '2GGC: West Side Saga', '2GG Championship'])
+('Salem', ['Evo 2017'])
+('MKLeo', ['IBP Masters Showdown'])
+('Tweek', ['2GGC: Fire Emblem Saga', '2GGC: MkLeo Saga'])
+('Larry Lurr', ['IBP Masters Showdown'])
+('Mr.R', ['Syndicate 2017', 'Syndicate 2017'])
+('Abadango', ['Umebura 30'])
+('Elegant', ['2GG Championship'])
+('Lima', ['2GGC: MkLeo Saga'])
+('Kirihara', ['Rikabura 8'])
+('Choco', ['Umebura 27', 'Umebura 29'])
+('Shuton', ['2GGC: West Side Saga'])
+('Kameme', ['2GGC: Arms Saga'])
+
+Losses Other:
+('takera', ['Umebura 27'])
+('Shu', ['Umebura 28'])
+('Lea', ['Umebura 30'])
+('Ac', ['2GGC: Fire Emblem Saga'])
+('Eim', ['Umebura 29'])

@@ -1,0 +1,27 @@
+Player: Rain
+Rank: 89
+Points: 15.730000
+
+Top 10 Record: 0-2
+Top 50 Record: 2-3
+
+Tournaments:
+Umebura 28: 2nd
+Umebura 29: 5th
+
+Wins Top 50:
+('Kirihara', ['Umebura 29'])
+('Choco', ['Umebura 28'])
+
+Losses Top 50:
+('KEN', ['Umebura 28', 'Umebura 28'])
+('Abadango', ['Umebura 29'])
+
+Losses Other:
+('Rattsu', ['Umebura 27'])
+('JJROCKETS', ['Evo 2017'])
+('Nietono', ['Umebura 29'])
+('Mao', ['Umebura 27'])
+('Googs', ['Evo 2017'])
+('????/PASTER', ['Umebura 30'])
+('?????/Tarakotori', ['Umebura 30'])

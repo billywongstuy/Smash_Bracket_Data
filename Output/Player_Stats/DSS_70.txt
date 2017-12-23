@@ -1,0 +1,33 @@
+Player: DSS
+Rank: 70
+Points: 18.450000
+
+Top 10 Record: 0-0
+Top 50 Record: 3-10
+
+Tournaments:
+2GGC: MkLeo Saga: 33rd
+GameTyrant Expo 2017: 33rd
+Who's Your Pappy #10: 5th
+2GGC: West Side Saga: 25th
+Super Smash Con 2017: 49th
+
+Wins Top 50:
+('Mr.E', ['2GGC: Last Chance Qualifier'])
+('Charliedaking', ["Who's Your Pappy #10"])
+('Shuton', ['2GGC: MkLeo Saga'])
+
+Losses Top 50:
+('ESAM', ['Super Smash Con 2017'])
+('Elegant', ["Who's Your Pappy #10", '2GGC: Last Chance Qualifier'])
+('WaDi', ['2GGC: MkLeo Saga'])
+('CaptainZack', ['GameTyrant Expo 2017'])
+('Cosmos', ['2GGC: Last Chance Qualifier'])
+('Kirihara', ['2GGC: West Side Saga'])
+('NAKAT', ['GameTyrant Expo 2017'])
+('Tyrant', ["Who's Your Pappy #10"])
+('Javi', ['2GGC: MkLeo Saga'])
+
+Losses Other:
+('SS', ['2GGC: West Side Saga'])
+('Seth', ['Super Smash Con 2017'])

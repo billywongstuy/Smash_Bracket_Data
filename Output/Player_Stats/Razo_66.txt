@@ -1,0 +1,34 @@
+Player: Razo
+Rank: 66
+Points: 19.620000
+
+Top 10 Record: 0-2
+Top 50 Record: 4-6
+
+Tournaments:
+2GGC: Fire Emblem Saga: 17th
+2GGC: MkLeo Saga: 33rd
+2GGC: Last Chance Qualifier: 5th
+2GGC: SCR Saga: 33rd
+
+Wins Top 50:
+('Mistake', ['2GGC: Last Chance Qualifier'])
+('Manny', ['2GGC: MkLeo Saga'])
+('Charliedaking', ['2GGC: Last Chance Qualifier'])
+('Zenyou', ['2GGC: Fire Emblem Saga'])
+
+Losses Top 50:
+('Salem', ['2GGC: Fire Emblem Saga'])
+('VoiD', ['2GGC: Fire Emblem Saga'])
+('Cosmos', ['2GGC: Last Chance Qualifier'])
+('Kirihara', ['2GGC: MkLeo Saga'])
+('Eon', ['2GGC: Last Chance Qualifier'])
+('Locus', ['2GGC: SCR Saga'])
+
+Losses Other:
+('TheOldMan', ['2GGC: Arms Saga'])
+('BaSK 3xA', ['2GGC: Arms Saga'])
+('Wes', ['2GGC: Arms Saga'])
+('Dunkmaster Ragna', ['2GGC: SCR Saga'])
+('Ned', ['2GGC: MkLeo Saga'])
+('Stroder', ['2GGC: Arms Saga'])

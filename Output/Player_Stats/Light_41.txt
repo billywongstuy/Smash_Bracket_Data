@@ -1,0 +1,40 @@
+Player: Light
+Rank: 41
+Points: 26.710000
+
+Top 10 Record: 1-4
+Top 50 Record: 6-10
+
+Tournaments:
+Shine 2017: 9th
+The Big House 7: 17th
+Super FamiCon 2017: 5th
+Super Smash Con 2017: 25th
+SMASHADELPHIA 2017: 5th
+ALPHA: 5th
+
+Wins Top 50:
+('VoiD', ['Shine 2017'])
+('Mr.E', ['Shine 2017'])
+('Fatality', ['Super FamiCon 2017'])
+('NAKAT', ['The Big House 7'])
+('JK', ['Shine 2017'])
+('DarkShad', ['The Big House 7'])
+
+Losses Top 50:
+('Salem', ['Super Smash Con 2017', 'Shine 2017'])
+('Tweek', ['The Big House 7'])
+('Larry Lurr', ['Shine 2017'])
+('ESAM', ['SMASHADELPHIA 2017'])
+('WaDi', ['SMASHADELPHIA 2017', 'ALPHA'])
+('CaptainZack', ['Super FamiCon 2017'])
+('ANTi', ['Super FamiCon 2017'])
+('Zinoto', ['The Big House 7'])
+
+Losses Other:
+('MattyG', ['Super Smash Con 2017'])
+('Willz', ['Syndicate 2017'])
+('iStudying', ['Tech Republic III'])
+('Rendon', ['Syndicate 2017'])
+('LoNg0uw', ['Tech Republic III'])
+('Ralphie', ['ALPHA'])

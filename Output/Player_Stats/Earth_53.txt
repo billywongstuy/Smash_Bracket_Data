@@ -1,0 +1,40 @@
+Player: Earth
+Rank: 53
+Points: 23.290000
+
+Top 10 Record: 0-1
+Top 50 Record: 4-11
+
+Tournaments:
+Umebura 30: 3rd
+Umebura 27: 5th
+Dubai Dojo 2: 5th
+Rikabura 8: 3rd
+2GGC: Fire Emblem Saga: 33rd
+Umebura 29: 13th
+
+Wins Top 50:
+('Kirihara', ['Umebura 30'])
+('Tsu', ['Rikabura 8'])
+('Raito', ['Umebura 29'])
+('9B', ['Umebura 27'])
+
+Losses Top 50:
+('KEN', ['Dubai Dojo 2'])
+('Abadango', ['Umebura 27', 'Umebura 30'])
+('WaDi', ['Evo 2017'])
+('Samsora', ['2GGC: Fire Emblem Saga'])
+('Kirihara', ['Rikabura 8'])
+('Tsu', ['Umebura 27', 'Rikabura 8'])
+('Choco', ['Umebura 30'])
+('Eon', ['2GGC: Fire Emblem Saga'])
+('9B', ['Dubai Dojo 2'])
+
+Losses Other:
+('Tosshi', ['Umebura 28'])
+('Shanrai', ['Umebura 28'])
+('Masha', ['Karisuma 14'])
+('Kuro', ['Umebura 29'])
+('Chanshu', ['Karisuma 14'])
+('Xzax', ['Evo 2017'])
+('Es', ['Umebura 29'])

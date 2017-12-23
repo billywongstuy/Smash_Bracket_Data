@@ -1,0 +1,47 @@
+Player: Z
+Rank: 99
+Points: 14.140000
+
+Top 10 Record: 1-3
+Top 50 Record: 1-10
+
+Tournaments:
+GameTyrant Expo 2017: 33rd
+IBP Masters Showdown: 17th
+2GGC: SCR Saga: 33rd
+Evo 2017: 49th
+
+Wins Top 50:
+('Mr.R', ['2GGC: Arms Saga'])
+
+Losses Top 50:
+('ZeRo', ['GameTyrant Expo 2017'])
+('Larry Lurr', ['2GGC: SCR Saga'])
+('Mr.R', ['IBP Masters Showdown'])
+('Mistake', ['Canada Cup 2017'])
+('Ally', ['GameTyrant Expo 2017'])
+('Cosmos', ['2GGC: Last Chance Qualifier'])
+('Tsu', ['Evo 2017'])
+('Charliedaking', ['2GGC: MkLeo Saga'])
+('Kameme', ['2GGC: SCR Saga'])
+('Locus', ['2GGC: Arms Saga'])
+
+Losses Other:
+('Elron', ['Syndicate 2017'])
+('Skylar', ['2GGC: MkLeo Saga'])
+('Deathorse', ['DreamHack Montreal 2017'])
+('Dark', ['Syndicate 2017'])
+('LingLing', ['Evo 2017'])
+('Lefty', ['2GGC: Arms Saga'])
+('waffles', ['2GGC: MkLeo Saga'])
+('Stitch~', ['2GGC: Arms Saga'])
+('Saiki', ['2GGC: West Side Saga'])
+('trout', ['2GGC: MkLeo Saga'])
+('Soronie', ['2GGC: West Side Saga'])
+('Razo', ['2GGC: Last Chance Qualifier'])
+('Locke', ['Shine 2017'])
+('Captain Andrew', ['2GGC: Arms Saga'])
+('Lightwork', ['Canada Cup 2017'])
+('AEMehr', ['IBP Masters Showdown'])
+('Fairlines', ['DreamHack Montreal 2017'])
+('Raffi-X', ['Shine 2017'])

@@ -1,0 +1,32 @@
+Player: SuperGirlKels
+Rank: 78
+Points: 17.250000
+
+Top 10 Record: 0-2
+Top 50 Record: 2-4
+
+Tournaments:
+Get On My Level 2017: 5th
+DreamHack Montreal 2017: 7th
+Canada Cup 2017: 7th
+Super Smash Con 2017: 33rd
+
+Wins Top 50:
+('MVD', ['DreamHack Montreal 2017'])
+('Fatality', ['Get On My Level 2017'])
+
+Losses Top 50:
+('MKLeo', ['Super Smash Con 2017'])
+('Dabuz', ['DreamHack Montreal 2017'])
+('Ally', ['DreamHack Montreal 2017'])
+('ANTi', ['Get On My Level 2017'])
+
+Losses Other:
+('Pefo', ['Syndicate 2017'])
+('San', ['Get On My Level 2017'])
+('Nietono', ['Evo 2017'])
+('Seagull Joe', ['Evo 2017'])
+('V115', ['Canada Cup 2017'])
+('Venom', ['Canada Cup 2017'])
+('JJROCKETS', ['Super Smash Con 2017'])
+('Ramses', ['Syndicate 2017'])

@@ -1,0 +1,31 @@
+Player: MattyG
+Rank: 59
+Points: 22.220000
+
+Top 10 Record: 0-3
+Top 50 Record: 3-9
+
+Tournaments:
+Super Smash Con 2017: 13th
+The Big House 7: 17th
+TGL & PG Present: Too Hot to Handle: 7th
+Shine 2017: 17th
+Super FamiCon 2017: 7th
+
+Wins Top 50:
+('MVD', ['TGL & PG Present: Too Hot to Handle'])
+('Kameme', ['Super Smash Con 2017'])
+('Light', ['Super Smash Con 2017'])
+
+Losses Top 50:
+('Tweek', ['Shine 2017', 'Shine 2017'])
+('Dabuz', ['TGL & PG Present: Too Hot to Handle'])
+('ESAM', ['Super FamiCon 2017'])
+('Ally', ['The Big House 7'])
+('CaptainZack', ['TGL & PG Present: Too Hot to Handle'])
+('JK', ['Super Smash Con 2017'])
+('falln', ['Super Smash Con 2017'])
+('Light', ['Super FamiCon 2017'])
+
+Losses Other:
+('Umeki', ['The Big House 7'])

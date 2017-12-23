@@ -1,0 +1,28 @@
+Player: Legit
+Rank: 83
+Points: 16.170000
+
+Top 10 Record: 0-0
+Top 50 Record: 2-7
+
+Tournaments:
+Super Smash Con 2017: 17th
+GameTyrant Expo 2017: 25th
+
+Wins Top 50:
+('Cosmos', ['GameTyrant Expo 2017'])
+('Mr.E', ['Super Smash Con 2017'])
+
+Losses Top 50:
+('ESAM', ['Shine 2017'])
+('WaDi', ['Super Smash Con 2017'])
+('Lima', ['2GGC: West Side Saga'])
+('JK', ['GameTyrant Expo 2017'])
+('DarkShad', ['Super Smash Con 2017'])
+('Tyrant', ['2GGC: West Side Saga'])
+('Zenyou', ['GameTyrant Expo 2017'])
+
+Losses Other:
+('BLACKDAN', ['Shine 2017'])
+('Shaky', ["Who's Your Pappy #10"])
+('DSS', ["Who's Your Pappy #10"])

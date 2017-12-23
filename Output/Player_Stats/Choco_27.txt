@@ -1,0 +1,29 @@
+Player: Choco
+Rank: 27
+Points: 35.020000
+
+Top 10 Record: 2-1
+Top 50 Record: 9-5
+
+Tournaments:
+Umebura 29: 1st
+Umebura 30: 1st
+Umebura 27: 3rd
+Umebura 28: 3rd
+Sumabato 21: 7th
+
+Wins Top 50:
+('KEN', ['Umebura 27', 'Umebura 29'])
+('Abadango', ['Umebura 29', 'Umebura 29', 'Umebura 30', 'Umebura 30'])
+('Tsu', ['Umebura 27'])
+('Kameme', ['Umebura 30'])
+('Raito', ['Umebura 27'])
+
+Losses Top 50:
+('KEN', ['Umebura 28'])
+('Abadango', ['Umebura 27', 'Umebura 27', 'Umebura 29', 'Umebura 30'])
+
+Losses Other:
+('Mangalitza?', ['Sumabato 21'])
+('Rain', ['Umebura 28'])
+('Selcia', ['Sumabato 21'])

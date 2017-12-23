@@ -1,0 +1,40 @@
+Player: tyroy
+Rank: 40
+Points: 26.930000
+
+Top 10 Record: 2-7
+Top 50 Record: 5-12
+
+Tournaments:
+Midwest Mayhem 9: 5th
+The Big House 7: 17th
+Midwest Mayhem 10: 5th
+Shine 2017: 17th
+Evo 2017: 33rd
+Showdown: Battle Royale 2: 9th
+Super Smash Con 2017: 33rd
+
+Wins Top 50:
+('Nairo', ['Midwest Mayhem 9'])
+('VoiD', ['Shine 2017'])
+('CaptainZack', ['Showdown: Battle Royale 2'])
+('Mr.E', ['Showdown: Battle Royale 2'])
+('DarkShad', ['Midwest Mayhem 9'])
+
+Losses Top 50:
+('ZeRo', ['Super Smash Con 2017'])
+('Salem', ['Midwest Mayhem 10'])
+('Tweek', ['Midwest Mayhem 9'])
+('Larry Lurr', ['The Big House 7'])
+('Dabuz', ['The Big House 7'])
+('VoiD', ['Shine 2017'])
+('Mr.R', ['Midwest Mayhem 10'])
+('Komorikiri/komorikiri', ['Shine 2017'])
+('WaDi', ['Showdown: Battle Royale 2'])
+('CaptainZack', ['Midwest Mayhem 9'])
+('Cosmos', ['Showdown: Battle Royale 2'])
+('MVD', ['Super Smash Con 2017'])
+
+Losses Other:
+('LingLing', ['Evo 2017'])
+('Ranai', ['Evo 2017'])

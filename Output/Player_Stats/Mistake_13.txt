@@ -1,0 +1,69 @@
+Player: Mistake
+Rank: 13
+Points: 52.670000
+
+Top 10 Record: 6-8
+Top 50 Record: 22-23
+
+Tournaments:
+Super Smash Con 2017: 5th
+2GGC: SCR Saga: 4th
+Shine 2017: 9th
+Get On My Level 2017: 3rd
+DreamHack Montreal 2017: 3rd
+Low Tier City 5: 3rd
+Evo 2017: 17th
+2GGC: Fire Emblem Saga: 13th
+Showdown: Battle Royale 2: 5th
+GameTyrant Expo 2017: 25th
+The Big House 7: 25th
+2GGC: MkLeo Saga: 33rd
+2GGC: Last Chance Qualifier: 7th
+Canada Cup 2017: 9th
+
+Wins Top 50:
+('ZeRo', ['Low Tier City 5'])
+('Salem', ['Super Smash Con 2017', '2GGC: SCR Saga'])
+('Larry Lurr', ['Get On My Level 2017', 'DreamHack Montreal 2017'])
+('VoiD', ['2GGC: SCR Saga'])
+('ESAM', ['Super Smash Con 2017'])
+('Komorikiri/komorikiri', ['2GGC: SCR Saga'])
+('CaptainZack', ['Low Tier City 5'])
+('Cosmos', ['2GGC: MkLeo Saga'])
+('ANTi', ['DreamHack Montreal 2017'])
+('Samsora', ['Showdown: Battle Royale 2'])
+('Marss', ['Shine 2017'])
+('Kirihara', ['Evo 2017'])
+('Charliedaking', ['2GGC: SCR Saga'])
+('Fatality', ['Evo 2017'])
+('falln', ['Super Smash Con 2017', '2GGC: Last Chance Qualifier'])
+('Kameme', ['2GGC: SCR Saga'])
+('Locus', ['Shine 2017', 'Shine 2017'])
+('Shoyo James', ['Super Smash Con 2017'])
+
+Losses Top 50:
+('ZeRo', ['Low Tier City 5'])
+('MKLeo', ['2GGC: SCR Saga'])
+('Tweek', ['Low Tier City 5'])
+('Larry Lurr', ['Get On My Level 2017', 'DreamHack Montreal 2017'])
+('Dabuz', ['GameTyrant Expo 2017'])
+('VoiD', ['2GGC: SCR Saga'])
+('Mr.R', ['Super Smash Con 2017'])
+('ESAM', ['DreamHack Montreal 2017'])
+('WaDi', ['Super Smash Con 2017', 'Showdown: Battle Royale 2', '2GGC: Fire Emblem Saga'])
+('Ally', ['Shine 2017'])
+('Cosmos', ['Shine 2017', '2GGC: Last Chance Qualifier'])
+('ANTi', ['Get On My Level 2017'])
+('Lima', ['Evo 2017'])
+('Tsu', ['2GGC: MkLeo Saga'])
+('Zinoto', ['The Big House 7', 'Canada Cup 2017'])
+('Charliedaking', ['GameTyrant Expo 2017'])
+('NAKAT', ['2GGC: Fire Emblem Saga'])
+('6WX', ['Showdown: Battle Royale 2'])
+
+Losses Other:
+('Deathorse', ['Canada Cup 2017'])
+('Gackt', ['The Big House 7'])
+('Captain L', ['2GGC: MkLeo Saga'])
+('Razo', ['2GGC: Last Chance Qualifier'])
+('False', ['Evo 2017'])

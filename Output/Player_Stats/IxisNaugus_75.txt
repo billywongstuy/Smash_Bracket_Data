@@ -1,0 +1,24 @@
+Player: IxisNaugus
+Rank: 75
+Points: 17.930000
+
+Top 10 Record: 0-0
+Top 50 Record: 2-2
+
+Tournaments:
+Tech Republic III: 1st
+Albion 2: 4th
+Evo 2017: 33rd
+Syndicate 2017: 13th
+
+Wins Top 50:
+('ESAM', ['Evo 2017', 'Evo 2017'])
+
+Losses Top 50:
+('Tsu', ['Evo 2017'])
+('tyroy', ['Evo 2017'])
+
+Losses Other:
+('MagiMagi', ['Albion 2', 'Albion 2'])
+('iStudying', ['Syndicate 2017'])
+('Griffith', ['Syndicate 2017'])

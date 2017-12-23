@@ -1,0 +1,48 @@
+Player: Fatality
+Rank: 32
+Points: 30.850000
+
+Top 10 Record: 0-6
+Top 50 Record: 7-15
+
+Tournaments:
+Showdown: Battle Royale 2: 1st
+2GG Championship: 16th
+Get On My Level 2017: 5th
+Super Smash Con 2017: 17th
+DreamHack Atlanta 2017: 17th
+2GGC: SCR Saga: 17th
+GameTyrant Expo 2017: 25th
+Evo 2017: 33rd
+Super FamiCon 2017: 9th
+
+Wins Top 50:
+('WaDi', ['Showdown: Battle Royale 2'])
+('Manny', ['Showdown: Battle Royale 2', 'Showdown: Battle Royale 2'])
+('Lima', ['2GGC: SCR Saga'])
+('DarkShad', ['Super FamiCon 2017'])
+('Tyrant', ['Evo 2017'])
+('Shoyo James', ['Showdown: Battle Royale 2'])
+
+Losses Top 50:
+('ZeRo', ['2GG Championship'])
+('Salem', ['Super Smash Con 2017'])
+('Nairo', ['2GGC: SCR Saga'])
+('Tweek', ['Super Smash Con 2017'])
+('Larry Lurr', ['Get On My Level 2017', '2GG Championship'])
+('Mistake', ['Evo 2017'])
+('Elegant', ['2GG Championship'])
+('ANTi', ['GameTyrant Expo 2017'])
+('Mr.E', ['DreamHack Atlanta 2017', 'DreamHack Atlanta 2017'])
+('Kameme', ['2GGC: SCR Saga'])
+('Light', ['Super FamiCon 2017'])
+('Zenyou', ['GameTyrant Expo 2017'])
+('9B', ['Evo 2017'])
+
+Losses Other:
+('SuperGirlKels', ['Get On My Level 2017'])
+('Kitsune', ['Shine 2017'])
+('Kresent', ['Super FamiCon 2017'])
+('KOM817', ['Shine 2017'])
+('Deotay', ['The Big House 7'])
+('Turnup_xD', ['The Big House 7'])

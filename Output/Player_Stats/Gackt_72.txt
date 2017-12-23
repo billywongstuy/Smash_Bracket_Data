@@ -1,0 +1,30 @@
+Player: Gackt
+Rank: 72
+Points: 18.310000
+
+Top 10 Record: 0-0
+Top 50 Record: 4-4
+
+Tournaments:
+The Big House 7: 17th
+Rikabura 8: 5th
+
+Wins Top 50:
+('Mistake', ['The Big House 7'])
+('ANTi', ['The Big House 7'])
+('Tsu', ['Umebura 28'])
+('Locus', ['The Big House 7'])
+
+Losses Top 50:
+('CaptainZack', ['The Big House 7'])
+('Kirihara', ['Rikabura 8'])
+('Raito', ['The Big House 7', 'Umebura 29'])
+
+Losses Other:
+('RYO', ['Umebura 28'])
+('???/Yakara', ['Umebura 30'])
+('Shogun', ['Umebura 29'])
+('FILIP', ['Umebura 30'])
+('Nietono', ['Umebura 27'])
+('Earth', ['Umebura 27', 'Rikabura 8'])
+('Lea', ['Umebura 28'])

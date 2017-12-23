@@ -1,0 +1,30 @@
+Player: takera
+Rank: 93
+Points: 15.230000
+
+Top 10 Record: 1-1
+Top 50 Record: 2-7
+
+Tournaments:
+Umebura 27: 5th
+2GGC: SCR Saga: 33rd
+
+Wins Top 50:
+('KEN', ['Umebura 27'])
+('Tsu', ['Umebura 27'])
+
+Losses Top 50:
+('Salem', ['2GGC: SCR Saga'])
+('Abadango', ['Umebura 30'])
+('Kirihara', ['Umebura 27'])
+('Tsu', ['Umebura 30'])
+('Choco', ['Umebura 27'])
+('K9sbruce', ['Evo 2017'])
+('9B', ['Evo 2017'])
+
+Losses Other:
+('Brood', ['Umebura 28'])
+('Kuroitsu', ['Umebura 29'])
+('Meteor', ['2GGC: SCR Saga'])
+('KaPMk', ['Umebura 28'])
+('Es', ['Umebura 29'])

@@ -1,0 +1,36 @@
+Player: Edge
+Rank: 57
+Points: 22.420000
+
+Top 10 Record: 0-4
+Top 50 Record: 1-8
+
+Tournaments:
+Sumabato 19: 3rd
+Evo 2017: 25th
+Dubai Dojo 2: 4th
+Sumabato 20: 3rd
+Sumabato 22: 4th
+Umebura 27: 13th
+Karisuma 14: 7th
+
+Wins Top 50:
+('Charliedaking', ['Evo 2017'])
+
+Losses Top 50:
+('Nairo', ['Evo 2017'])
+('KEN', ['Umebura 27', 'Dubai Dojo 2'])
+('VoiD', ['Evo 2017'])
+('Komorikiri/komorikiri', ['Karisuma 14'])
+('Tsu', ['Umebura 27'])
+('9B', ['Sumabato 19', 'Dubai Dojo 2'])
+
+Losses Other:
+('Ron', ['Sumabato 20'])
+('HIKARU', ['Sumabato 19'])
+('Chanshu', ['Sumabato 22'])
+('Tatsutsuyo', ['Sumabato 22'])
+('Cigotoast', ['Tech Republic III'])
+('TOSHI', ['Karisuma 14'])
+('razenoku', ['Tech Republic III'])
+('Kisha', ['Sumabato 20'])

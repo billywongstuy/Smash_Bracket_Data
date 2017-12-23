@@ -1,0 +1,30 @@
+Player: Mystearica
+Rank: 92
+Points: 15.260000
+
+Top 10 Record: 1-1
+Top 50 Record: 1-6
+
+Tournaments:
+2GGC: Fire Emblem Saga: 17th
+Midwest Mayhem 9: 7th
+DreamHack Atlanta 2017: 33rd
+
+Wins Top 50:
+('VoiD', ['2GGC: Fire Emblem Saga'])
+
+Losses Top 50:
+('Tweek', ['Midwest Mayhem 9'])
+('Mistake', ['2GGC: Fire Emblem Saga'])
+('CaptainZack', ['Midwest Mayhem 9'])
+('Kirihara', ['2GGC: Fire Emblem Saga'])
+('MVD', ['DreamHack Atlanta 2017'])
+('Shoyo James', ['Showdown: Battle Royale 2'])
+
+Losses Other:
+('Wrath', ['DreamHack Atlanta 2017'])
+('Tanark', ['The Big House 7'])
+('Oatmeal', ['Super Smash Con 2017'])
+('BestNess', ['The Big House 7'])
+('SchwApple', ['Showdown: Battle Royale 2'])
+('Xaltis', ['Super Smash Con 2017'])

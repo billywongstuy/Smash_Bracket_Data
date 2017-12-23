@@ -1,0 +1,27 @@
+Player: Cashmere
+Rank: 73
+Points: 18.310000
+
+Top 10 Record: 0-3
+Top 50 Record: 3-5
+
+Tournaments:
+Super Smash Con 2017: 17th
+TGL & PG Present: Too Hot to Handle: 7th
+UNLOCKED: 7th
+
+Wins Top 50:
+('Samsora', ['TGL & PG Present: Too Hot to Handle'])
+('MVD', ['Super Smash Con 2017', 'TGL & PG Present: Too Hot to Handle'])
+
+Losses Top 50:
+('ZeRo', ['Super Smash Con 2017'])
+('Salem', ['TGL & PG Present: Too Hot to Handle'])
+('Dabuz', ['TGL & PG Present: Too Hot to Handle'])
+('ESAM', ['Super Smash Con 2017'])
+('Samsora', ['UNLOCKED'])
+
+Losses Other:
+('dyr', ['TGL Presents: Divided'])
+('Child', ['TGL Presents: Divided'])
+('Mew2King', ['UNLOCKED'])

@@ -1,0 +1,45 @@
+Player: Xzax
+Rank: 55
+Points: 22.470000
+
+Top 10 Record: 0-3
+Top 50 Record: 3-14
+
+Tournaments:
+Evo 2017: 25th
+IBP Masters Showdown: 9th
+The Big House 7: 25th
+2GGC: MkLeo Saga: 33rd
+GameTyrant Expo 2017: 33rd
+2GGC: Arms Saga: 25th
+2GGC: Fire Emblem Saga: 33rd
+
+Wins Top 50:
+('Mr.E', ['GameTyrant Expo 2017'])
+('Javi', ['The Big House 7'])
+('Zenyou', ['Evo 2017'])
+
+Losses Top 50:
+('Nairo', ['GameTyrant Expo 2017'])
+('Larry Lurr', ['The Big House 7', 'IBP Masters Showdown'])
+('Abadango', ['2GGC: West Side Saga'])
+('Mistake', ['2GGC: Fire Emblem Saga'])
+('Komorikiri/komorikiri', ['IBP Masters Showdown'])
+('CaptainZack', ['2GGC: MkLeo Saga'])
+('Manny', ['Evo 2017'])
+('Marss', ['The Big House 7'])
+('Zinoto', ['GameTyrant Expo 2017'])
+('tyroy', ['Super Smash Con 2017'])
+('K9sbruce', ['2GGC: Last Chance Qualifier'])
+('Eon', ['2GGC: Last Chance Qualifier'])
+('Locus', ['2GGC: West Side Saga'])
+
+Losses Other:
+('Ghost', ['2GGC: Arms Saga'])
+('Dainosuke', ['Super Smash Con 2017'])
+('False', ['Evo 2017'])
+('HIKARU', ['2GGC: MkLeo Saga'])
+('FuTure', ["Who's Your Pappy #10"])
+('Lazyboredom', ['2GGC: Arms Saga'])
+('Rich Brown', ["Who's Your Pappy #10"])
+('Stroder', ['2GGC: Fire Emblem Saga'])

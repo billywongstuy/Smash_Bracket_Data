@@ -1,0 +1,61 @@
+Player: Mr.R
+Rank: 10
+Points: 54.950000
+
+Top 10 Record: 5-13
+Top 50 Record: 23-20
+
+Tournaments:
+Super Smash Con 2017: 4th
+GameTyrant Expo 2017: 5th
+DreamHack Atlanta 2017: 7th
+2GGC: MkLeo Saga: 9th
+Syndicate 2017: 1st
+The Big House 7: 9th
+2GGC: SCR Saga: 9th
+Smash Factor 6: 2nd
+Evo 2017: 17th
+IBP Masters Showdown: 7th
+Midwest Mayhem 10: 4th
+2GGC: Last Chance Qualifier: 4th
+
+Wins Top 50:
+('ZeRo', ['2GGC: MkLeo Saga'])
+('MKLeo', ['Smash Factor 6'])
+('KEN', ['Syndicate 2017', 'Syndicate 2017'])
+('VoiD', ['2GGC: MkLeo Saga'])
+('ESAM', ['DreamHack Atlanta 2017'])
+('Mistake', ['Super Smash Con 2017'])
+('Ally', ['The Big House 7', 'IBP Masters Showdown'])
+('Cosmos', ['Midwest Mayhem 10'])
+('Manny', ['IBP Masters Showdown'])
+('Samsora', ['2GGC: SCR Saga'])
+('Marss', ['GameTyrant Expo 2017'])
+('Tsu', ['Evo 2017'])
+('MVD', ['DreamHack Atlanta 2017', '2GGC: MkLeo Saga'])
+('DarkShad', ['GameTyrant Expo 2017'])
+('falln', ['2GGC: Last Chance Qualifier'])
+('tyroy', ['Midwest Mayhem 10'])
+('Tyrant', ['GameTyrant Expo 2017'])
+('K9sbruce', ['2GGC: Last Chance Qualifier'])
+('Zenyou', ['2GGC: MkLeo Saga', 'IBP Masters Showdown'])
+
+Losses Top 50:
+('ZeRo', ['Super Smash Con 2017', 'Midwest Mayhem 10'])
+('Nairo', ['Super Smash Con 2017', '2GGC: SCR Saga', '2GGC: MkLeo Saga'])
+('MKLeo', ['Smash Factor 6', 'Smash Factor 6', 'GameTyrant Expo 2017'])
+('Tweek', ['DreamHack Atlanta 2017', 'Midwest Mayhem 10'])
+('Larry Lurr', ['GameTyrant Expo 2017', 'The Big House 7', 'IBP Masters Showdown'])
+('Komorikiri/komorikiri', ['Evo 2017'])
+('Elegant', ['Evo 2017', '2GGC: MkLeo Saga', '2GGC: Last Chance Qualifier'])
+('Cosmos', ['2GGC: Last Chance Qualifier'])
+('ANTi', ['DreamHack Atlanta 2017'])
+('MVD', ['The Big House 7'])
+
+Losses Other:
+('Zfly', ['2GGC: Arms Saga'])
+('Rayne', ['2GGC: Arms Saga'])
+('Venom', ['2GGC: SCR Saga'])
+('V', ['2GGC: Arms Saga'])
+('MrConCon', ['IBP Masters Showdown'])
+('Z', ['2GGC: Arms Saga'])

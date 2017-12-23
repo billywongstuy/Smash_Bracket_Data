@@ -1,0 +1,47 @@
+Player: Kirihara
+Rank: 25
+Points: 36.270000
+
+Top 10 Record: 1-10
+Top 50 Record: 9-14
+
+Tournaments:
+2GGC: MkLeo Saga: 9th
+Umebura 27: 2nd
+2GGC: West Side Saga: 5th
+2GGC: Fire Emblem Saga: 9th
+2GG Championship: 11th
+Umebura 28: 4th
+Rikabura 8: 2nd
+Umebura 29: 9th
+Umebura 30: 13th
+
+Wins Top 50:
+('KEN', ['Rikabura 8'])
+('Abadango', ['Umebura 27'])
+('ESAM', ['2GGC: MkLeo Saga'])
+('Elegant', ['2GGC: West Side Saga'])
+('Tsu', ['2GGC: MkLeo Saga'])
+('Shuton', ['2GG Championship'])
+('falln', ['2GGC: Fire Emblem Saga'])
+('Kameme', ['Umebura 27'])
+('Raito', ['Umebura 27'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: West Side Saga'])
+('Salem', ['2GG Championship'])
+('Nairo', ['2GGC: Fire Emblem Saga', '2GGC: MkLeo Saga'])
+('MKLeo', ['2GG Championship'])
+('Tweek', ['2GGC: West Side Saga', '2GGC: Fire Emblem Saga'])
+('KEN', ['Umebura 28', 'Rikabura 8', 'Rikabura 8'])
+('Abadango', ['Umebura 27', 'Umebura 27'])
+('Mistake', ['Evo 2017'])
+('Lima', ['2GGC: MkLeo Saga'])
+
+Losses Other:
+('bAhuto', ['Umebura 28'])
+('TLTC', ['Evo 2017'])
+('Rain', ['Umebura 29'])
+('Nietono', ['Umebura 30'])
+('Earth', ['Umebura 30'])
+('Eim', ['Umebura 29'])

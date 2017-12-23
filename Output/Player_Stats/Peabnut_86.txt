@@ -1,0 +1,24 @@
+Player: Peabnut
+Rank: 86
+Points: 15.960000
+
+Top 10 Record: 0-2
+Top 50 Record: 2-5
+
+Tournaments:
+DreamHack Atlanta 2017: 13th
+Super FamiCon 2017: 7th
+Super Smash Con 2017: 33rd
+
+Wins Top 50:
+('NAKAT', ['Super Smash Con 2017'])
+('falln', ['DreamHack Atlanta 2017'])
+
+Losses Top 50:
+('Mr.R', ['DreamHack Atlanta 2017', 'Super Smash Con 2017'])
+('WaDi', ['Super FamiCon 2017'])
+('ANTi', ['Super FamiCon 2017'])
+('Samsora', ['DreamHack Atlanta 2017'])
+
+Losses Other:
+('Sinji', ['Super Smash Con 2017'])

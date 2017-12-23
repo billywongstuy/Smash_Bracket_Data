@@ -1,0 +1,27 @@
+Player: Wrath
+Rank: 69
+Points: 18.540000
+
+Top 10 Record: 0-4
+Top 50 Record: 3-6
+
+Tournaments:
+Evo 2017: 17th
+DreamHack Atlanta 2017: 17th
+Super FamiCon 2017: 9th
+
+Wins Top 50:
+('Cosmos', ['DreamHack Atlanta 2017'])
+('MVD', ['Evo 2017'])
+('DarkShad', ['Super FamiCon 2017'])
+
+Losses Top 50:
+('Tweek', ['Evo 2017'])
+('Dabuz', ['DreamHack Atlanta 2017', 'Super FamiCon 2017'])
+('VoiD', ['Evo 2017'])
+('WaDi', ['Super FamiCon 2017'])
+('ANTi', ['DreamHack Atlanta 2017'])
+
+Losses Other:
+('Ultima', ['Low Tier City 5'])
+('Ray', ['Low Tier City 5'])

@@ -1,0 +1,37 @@
+Player: Raito
+Rank: 39
+Points: 27.280000
+
+Top 10 Record: 2-7
+Top 50 Record: 4-12
+
+Tournaments:
+GameTyrant Expo 2017: 13th
+The Big House 7: 13th
+Evo 2017: 17th
+2GGC: MkLeo Saga: 25th
+2GGC: Arms Saga: 17th
+Umebura 27: 9th
+
+Wins Top 50:
+('Dabuz', ['GameTyrant Expo 2017'])
+('VoiD', ['GameTyrant Expo 2017'])
+('ESAM', ['The Big House 7'])
+('Lima', ['2GGC: Arms Saga'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: Arms Saga', 'GameTyrant Expo 2017'])
+('Salem', ['The Big House 7'])
+('Larry Lurr', ['The Big House 7'])
+('KEN', ['Evo 2017', '2GGC: MkLeo Saga'])
+('VoiD', ['2GGC: MkLeo Saga'])
+('Abadango', ['2GGC: Arms Saga', 'Evo 2017'])
+('Kirihara', ['Umebura 27'])
+('Choco', ['Umebura 27'])
+('Charliedaking', ['GameTyrant Expo 2017'])
+
+Losses Other:
+('kept', ['Umebura 30'])
+('Tamushika', ['Umebura 29'])
+('Earth', ['Umebura 29'])
+('Mao', ['Umebura 30'])

@@ -1,0 +1,64 @@
+Player: Abadango
+Rank: 11
+Points: 54.330000
+
+Top 10 Record: 4-11
+Top 50 Record: 23-27
+
+Tournaments:
+2GGC: MkLeo Saga: 7th
+Umebura 27: 1st
+Evo 2017: 9th
+2GG Championship: 7th
+Umebura 29: 2nd
+Umebura 30: 2nd
+2GGC: West Side Saga: 9th
+DreamHack Denver 2017: 5th
+The Big House 7: 17th
+2GGC: Arms Saga: 13th
+2GGC: SCR Saga: 17th
+Low Tier City 5: 7th
+GameTyrant Expo 2017: 25th
+2GGC: Fire Emblem Saga: 25th
+Super Smash Con 2017: 33rd
+
+Wins Top 50:
+('Salem', ['DreamHack Denver 2017', '2GGC: MkLeo Saga'])
+('Nairo', ['2GG Championship'])
+('KEN', ['Umebura 30'])
+('ESAM', ['The Big House 7', '2GGC: MkLeo Saga'])
+('Komorikiri/komorikiri', ['2GG Championship'])
+('WaDi', ['Evo 2017'])
+('CaptainZack', ['2GG Championship'])
+('Lima', ['2GGC: West Side Saga'])
+('Kirihara', ['Umebura 27', 'Umebura 27'])
+('Choco', ['Umebura 27', 'Umebura 27', 'Umebura 29', 'Umebura 30'])
+('MVD', ['Evo 2017'])
+('falln', ['Evo 2017'])
+('Raito', ['2GGC: Arms Saga', 'Evo 2017'])
+('K9sbruce', ['2GGC: MkLeo Saga'])
+('Eon', ['2GGC: Arms Saga'])
+('6WX', ['2GGC: Fire Emblem Saga'])
+
+Losses Top 50:
+('ZeRo', ['Low Tier City 5'])
+('Nairo', ['Evo 2017', '2GGC: West Side Saga', '2GGC: MkLeo Saga'])
+('MKLeo', ['2GGC: MkLeo Saga', '2GG Championship'])
+('Tweek', ['2GGC: Arms Saga', '2GGC: West Side Saga'])
+('Larry Lurr', ['2GGC: SCR Saga', 'DreamHack Denver 2017'])
+('Dabuz', ['2GG Championship'])
+('CaptainZack', ['Low Tier City 5', 'The Big House 7', '2GGC: Fire Emblem Saga'])
+('Cosmos', ['2GGC: Fire Emblem Saga'])
+('Samsora', ['GameTyrant Expo 2017'])
+('Kirihara', ['Umebura 27'])
+('Choco', ['Umebura 29', 'Umebura 29', 'Umebura 30', 'Umebura 30'])
+('MVD', ['The Big House 7'])
+('Zinoto', ['GameTyrant Expo 2017'])
+('Charliedaking', ['2GGC: Arms Saga'])
+('NAKAT', ['Evo 2017'])
+('Javi', ['DreamHack Denver 2017'])
+('Zenyou', ['2GGC: SCR Saga'])
+
+Losses Other:
+('Luhtie', ['Super Smash Con 2017'])
+('dyr', ['Super Smash Con 2017'])

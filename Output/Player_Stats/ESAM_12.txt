@@ -1,0 +1,60 @@
+Player: ESAM
+Rank: 12
+Points: 53.370000
+
+Top 10 Record: 7-15
+Top 50 Record: 23-27
+
+Tournaments:
+DreamHack Montreal 2017: 2nd
+TGL & PG Present: Too Hot to Handle: 3rd
+DreamHack Atlanta 2017: 9th
+Super FamiCon 2017: 2nd
+Super Smash Con 2017: 13th
+SMASHADELPHIA 2017: 1st
+Shine 2017: 13th
+Low Tier City 5: 4th
+2GGC: MkLeo Saga: 17th
+DreamHack Denver 2017: 5th
+GameTyrant Expo 2017: 17th
+UNLOCKED: 2nd
+TGL Presents: Divided: 2nd
+The Big House 7: 25th
+Evo 2017: 49th
+
+Wins Top 50:
+('Salem', ['TGL & PG Present: Too Hot to Handle'])
+('Larry Lurr', ['Low Tier City 5', 'Super Smash Con 2017'])
+('Dabuz', ['SMASHADELPHIA 2017', 'SMASHADELPHIA 2017', 'DreamHack Atlanta 2017', 'DreamHack Montreal 2017'])
+('Mistake', ['DreamHack Montreal 2017'])
+('WaDi', ['SMASHADELPHIA 2017'])
+('Ally', ['DreamHack Montreal 2017'])
+('CaptainZack', ['Low Tier City 5', 'TGL & PG Present: Too Hot to Handle', 'TGL & PG Present: Too Hot to Handle', 'Super FamiCon 2017', 'Super FamiCon 2017'])
+('Cosmos', ['DreamHack Denver 2017'])
+('ANTi', ['Shine 2017'])
+('Samsora', ['UNLOCKED'])
+('MVD', ['TGL Presents: Divided'])
+('JK', ['2GGC: MkLeo Saga'])
+('falln', ['GameTyrant Expo 2017'])
+('Light', ['SMASHADELPHIA 2017'])
+('Tyrant', ['2GGC: MkLeo Saga'])
+
+Losses Top 50:
+('ZeRo', ['Low Tier City 5', 'DreamHack Denver 2017'])
+('Salem', ['UNLOCKED', 'UNLOCKED', 'GameTyrant Expo 2017', 'DreamHack Denver 2017'])
+('Tweek', ['Low Tier City 5'])
+('Larry Lurr', ['DreamHack Atlanta 2017', 'DreamHack Montreal 2017', 'DreamHack Montreal 2017'])
+('Dabuz', ['SMASHADELPHIA 2017', 'TGL & PG Present: Too Hot to Handle', 'Super FamiCon 2017', 'Super FamiCon 2017'])
+('Mr.R', ['DreamHack Atlanta 2017'])
+('Abadango', ['The Big House 7', '2GGC: MkLeo Saga'])
+('Mistake', ['Super Smash Con 2017'])
+('WaDi', ['Shine 2017'])
+('Manny', ['TGL Presents: Divided', 'TGL Presents: Divided', 'TGL & PG Present: Too Hot to Handle'])
+('Kirihara', ['2GGC: MkLeo Saga'])
+('Zinoto', ['GameTyrant Expo 2017'])
+('JK', ['Shine 2017'])
+('Raito', ['The Big House 7'])
+('6WX', ['Super Smash Con 2017'])
+
+Losses Other:
+('IxisNaugus', ['Evo 2017', 'Evo 2017'])

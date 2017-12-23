@@ -1,0 +1,26 @@
+Player: Sinji
+Rank: 100
+Points: 13.820000
+
+Top 10 Record: 0-2
+Top 50 Record: 1-5
+
+Tournaments:
+DreamHack Atlanta 2017: 17th
+Super Smash Con 2017: 25th
+The Big House 7: 33rd
+
+Wins Top 50:
+('ANTi', ['The Big House 7'])
+
+Losses Top 50:
+('Nairo', ['Super Smash Con 2017', 'Super Smash Con 2017'])
+('CaptainZack', ['DreamHack Atlanta 2017', 'The Big House 7'])
+('Manny', ['DreamHack Atlanta 2017'])
+
+Losses Other:
+('Kofi', ['ALPHA'])
+('Laloba', ['Smash Factor 6'])
+('OBA', ['Smash Factor 6'])
+('Ryuga', ['The Big House 7'])
+('dekillsage', ['ALPHA'])

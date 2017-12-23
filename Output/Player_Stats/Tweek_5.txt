@@ -1,0 +1,70 @@
+Player: Tweek
+Rank: 5
+Points: 77.790000
+
+Top 10 Record: 17-21
+Top 50 Record: 41-29
+
+Tournaments:
+2GGC: MkLeo Saga: 1st
+Evo 2017: 4th
+Shine 2017: 2nd
+DreamHack Atlanta 2017: 3rd
+2GGC: West Side Saga: 2nd
+2GGC: Fire Emblem Saga: 4th
+Low Tier City 5: 1st
+2GGC: Arms Saga: 7th
+2GGC: SCR Saga: 9th
+Midwest Mayhem 9: 3rd
+Super Smash Con 2017: 13th
+Midwest Mayhem 10: 3rd
+2GG Championship: 16th
+GameTyrant Expo 2017: 17th
+The Big House 7: 17th
+
+Wins Top 50:
+('ZeRo', ['Low Tier City 5'])
+('Salem', ['DreamHack Atlanta 2017', 'Shine 2017'])
+('Nairo', ['Evo 2017', 'Shine 2017', '2GGC: MkLeo Saga'])
+('MKLeo', ['Shine 2017', '2GGC: MkLeo Saga'])
+('Larry Lurr', ['Shine 2017', 'PAX Arena at PAX West 2017'])
+('Dabuz', ['Evo 2017', 'Super Smash Con 2017', '2GGC: MkLeo Saga'])
+('KEN', ['2GGC: Fire Emblem Saga', '2GGC: MkLeo Saga'])
+('Mr.R', ['DreamHack Atlanta 2017', 'Midwest Mayhem 10'])
+('Abadango', ['2GGC: Arms Saga', '2GGC: West Side Saga'])
+('ESAM', ['Low Tier City 5'])
+('Mistake', ['Low Tier City 5'])
+('Cosmos', ['Shine 2017', 'Midwest Mayhem 10'])
+('Manny', ['2GGC: Fire Emblem Saga'])
+('ANTi', ['2GGC: SCR Saga'])
+('Samsora', ['2GGC: Fire Emblem Saga', '2GGC: MkLeo Saga'])
+('Lima', ['Low Tier City 5'])
+('Kirihara', ['2GGC: West Side Saga', '2GGC: Fire Emblem Saga'])
+('Mr.E', ['2GGC: MkLeo Saga'])
+('Zinoto', ['2GGC: West Side Saga'])
+('Fatality', ['Super Smash Con 2017'])
+('Shuton', ['2GGC: West Side Saga'])
+('tyroy', ['Midwest Mayhem 9'])
+('Light', ['The Big House 7'])
+('Tyrant', ['2GGC: Fire Emblem Saga'])
+('K9sbruce', ['2GGC: West Side Saga'])
+('Eon', ['Evo 2017', '2GGC: Fire Emblem Saga'])
+('Zenyou', ['GameTyrant Expo 2017'])
+
+Losses Top 50:
+('ZeRo', ['Midwest Mayhem 9', 'Evo 2017', 'Shine 2017', 'PAX Arena at PAX West 2017', '2GGC: West Side Saga', '2GGC: West Side Saga', 'GameTyrant Expo 2017', 'Midwest Mayhem 10'])
+('Salem', ['Evo 2017', 'DreamHack Atlanta 2017', '2GGC: SCR Saga', 'Midwest Mayhem 10'])
+('Nairo', ['Midwest Mayhem 9', 'Super Smash Con 2017', '2GGC: Fire Emblem Saga'])
+('MKLeo', ['2GGC: SCR Saga'])
+('KEN', ['2GGC: Arms Saga'])
+('VoiD', ['2GGC: Arms Saga', 'DreamHack Atlanta 2017', 'PAX Arena at PAX West 2017', '2GG Championship'])
+('WaDi', ['2GG Championship'])
+('Ally', ['Shine 2017', 'PAX Arena at PAX West 2017', '2GG Championship'])
+('Manny', ['2GGC: Fire Emblem Saga'])
+('ANTi', ['GameTyrant Expo 2017'])
+('Mr.E', ['The Big House 7'])
+('MVD', ['The Big House 7'])
+
+Losses Other:
+('Konga', ['PAX Arena at PAX West 2017'])
+('THUNDER', ['Super Smash Con 2017'])

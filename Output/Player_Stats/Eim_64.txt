@@ -1,0 +1,31 @@
+Player: Eim
+Rank: 64
+Points: 20.340000
+
+Top 10 Record: 1-3
+Top 50 Record: 3-5
+
+Tournaments:
+Umebura 29: 3rd
+2GGC: Arms Saga: 17th
+Umebura 30: 13th
+
+Wins Top 50:
+('KEN', ['Umebura 29'])
+('Kirihara', ['Umebura 29'])
+('Kameme', ['Umebura 29'])
+
+Losses Top 50:
+('Salem', ['Evo 2017'])
+('Tweek', ['2GGC: Arms Saga'])
+('KEN', ['2GGC: Arms Saga'])
+('Choco', ['Umebura 29', 'Umebura 29'])
+
+Losses Other:
+('Shu', ['Umebura 27'])
+('Lea', ['Umebura 30'])
+('Shogun', ['Umebura 28'])
+('Suinoko', ['Evo 2017'])
+('????/MatchaN.', ['Umebura 30'])
+('Earth', ['Umebura 27'])
+('bAhuto', ['Umebura 28'])

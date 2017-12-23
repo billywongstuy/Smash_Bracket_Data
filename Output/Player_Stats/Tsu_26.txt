@@ -1,0 +1,42 @@
+Player: Tsu
+Rank: 26
+Points: 35.440000
+
+Top 10 Record: 0-8
+Top 50 Record: 7-10
+
+Tournaments:
+2GGC: Arms Saga: 7th
+2GGC: MkLeo Saga: 13th
+2GGC: West Side Saga: 7th
+Umebura 27: 4th
+Evo 2017: 25th
+Rikabura 8: 4th
+Umebura 30: 9th
+
+Wins Top 50:
+('Mistake', ['2GGC: MkLeo Saga'])
+('Komorikiri/komorikiri', ['2GGC: MkLeo Saga'])
+('Samsora', ['2GGC: MkLeo Saga'])
+('Lima', ['2GGC: Arms Saga'])
+('Kameme', ['Umebura 27', '2GGC: Arms Saga'])
+('Zenyou', ['2GGC: West Side Saga'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: West Side Saga'])
+('Larry Lurr', ['2GGC: Arms Saga', 'Evo 2017', '2GGC: MkLeo Saga'])
+('KEN', ['2GGC: West Side Saga', 'Rikabura 8'])
+('VoiD', ['2GGC: Arms Saga'])
+('Mr.R', ['Evo 2017'])
+('Kirihara', ['2GGC: MkLeo Saga'])
+('Choco', ['Umebura 27'])
+
+Losses Other:
+('takera', ['Umebura 27'])
+('???/Yakara', ['Umebura 30'])
+('Nietono', ['Umebura 28'])
+('Gackt', ['Umebura 28'])
+('Mangalitza?', ['Umebura 29'])
+('????/MatchaN.', ['Umebura 30'])
+('Earth', ['Rikabura 8'])
+('Kuro', ['Umebura 29'])

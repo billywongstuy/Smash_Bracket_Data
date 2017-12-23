@@ -1,0 +1,27 @@
+Player: Ranai
+Rank: 71
+Points: 18.320000
+
+Top 10 Record: 0-3
+Top 50 Record: 1-4
+
+Tournaments:
+Evo 2017: 17th
+2GGC: Arms Saga: 9th
+Dubai Dojo 2: 7th
+Karisuma 14: 5th
+
+Wins Top 50:
+('tyroy', ['Evo 2017'])
+
+Losses Top 50:
+('ZeRo', ['Evo 2017'])
+('Tweek', ['2GGC: Arms Saga'])
+('Dabuz', ['2GGC: Arms Saga'])
+('WaDi', ['Evo 2017'])
+
+Losses Other:
+('Taiheita', ['Karisuma 14'])
+('Edge', ['Dubai Dojo 2'])
+('Earth', ['Dubai Dojo 2'])
+('Masha', ['Karisuma 14'])

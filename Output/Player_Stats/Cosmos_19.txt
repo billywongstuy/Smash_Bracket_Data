@@ -1,0 +1,70 @@
+Player: Cosmos
+Rank: 19
+Points: 47.010000
+
+Top 10 Record: 4-8
+Top 50 Record: 16-22
+
+Tournaments:
+The Big House 7: 3rd
+Shine 2017: 9th
+Showdown: Battle Royale 2: 4th
+2GGC: Arms Saga: 9th
+2GGC: Last Chance Qualifier: 2nd
+Midwest Mayhem 10: 5th
+2GGC: Fire Emblem Saga: 17th
+Midwest Mayhem 9: 7th
+DreamHack Denver 2017: 7th
+Super Smash Con 2017: 25th
+Evo 2017: 33rd
+DreamHack Atlanta 2017: 25th
+GameTyrant Expo 2017: 33rd
+2GGC: MkLeo Saga: 49th
+
+Wins Top 50:
+('ZeRo', ['The Big House 7'])
+('Salem', ['The Big House 7'])
+('VoiD', ['The Big House 7'])
+('Mr.R', ['2GGC: Last Chance Qualifier'])
+('Abadango', ['2GGC: Fire Emblem Saga'])
+('Mistake', ['Shine 2017', '2GGC: Last Chance Qualifier'])
+('Elegant', ['2GGC: Last Chance Qualifier'])
+('MVD', ['DreamHack Denver 2017'])
+('JK', ['Super Smash Con 2017'])
+('DarkShad', ['Showdown: Battle Royale 2'])
+('tyroy', ['Showdown: Battle Royale 2'])
+('K9sbruce', ['2GGC: Fire Emblem Saga'])
+('Eon', ['2GGC: Last Chance Qualifier'])
+('6WX', ['Showdown: Battle Royale 2'])
+('Shoyo James', ['Showdown: Battle Royale 2'])
+
+Losses Top 50:
+('ZeRo', ['Shine 2017'])
+('Nairo', ['Midwest Mayhem 9'])
+('Tweek', ['Shine 2017', 'Midwest Mayhem 10'])
+('Dabuz', ['The Big House 7'])
+('VoiD', ['2GGC: Arms Saga', 'Evo 2017'])
+('Mr.R', ['Midwest Mayhem 10'])
+('ESAM', ['DreamHack Denver 2017'])
+('Mistake', ['2GGC: MkLeo Saga'])
+('Komorikiri/komorikiri', ['GameTyrant Expo 2017'])
+('Elegant', ['2GGC: Last Chance Qualifier'])
+('WaDi', ['Showdown: Battle Royale 2', '2GGC: Fire Emblem Saga'])
+('Manny', ['Showdown: Battle Royale 2'])
+('Marss', ['The Big House 7'])
+('Zinoto', ['Evo 2017'])
+('DarkShad', ['Super Smash Con 2017'])
+('Kameme', ['2GGC: Arms Saga'])
+('Eon', ['2GGC: Last Chance Qualifier'])
+('Javi', ['DreamHack Denver 2017'])
+('6WX', ['Super Smash Con 2017'])
+
+Losses Other:
+('Wrath', ['DreamHack Atlanta 2017'])
+('Ginja', ['2GGC: MkLeo Saga'])
+('Luhtie', ['2GGC: MkLeo Saga'])
+('Dougles', ['2GGC: MkLeo Saga'])
+('Ryuga', ['Midwest Mayhem 9'])
+('Legit', ['GameTyrant Expo 2017'])
+('San', ['2GGC: Fire Emblem Saga'])
+('Blank', ['DreamHack Atlanta 2017'])

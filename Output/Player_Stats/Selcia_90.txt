@@ -1,0 +1,25 @@
+Player: Selcia
+Rank: 90
+Points: 15.590000
+
+Top 10 Record: 0-0
+Top 50 Record: 2-0
+
+Tournaments:
+Sumabato 21: 3rd
+Sumabato 22: 3rd
+
+Wins Top 50:
+('Komorikiri/komorikiri', ['Sumabato 21'])
+('Choco', ['Sumabato 21'])
+
+Losses Top 50:
+
+Losses Other:
+('Chanshu', ['Sumabato 22'])
+('Hare', ['Karisuma 14'])
+('Masashi', ['Sumabato 21'])
+('Edge', ['Karisuma 14'])
+('Kome', ['Sumabato 21'])
+('Sigma', ['Sumabato 20', 'Sumabato 22'])
+('pekeplus', ['Sumabato 20'])

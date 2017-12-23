@@ -1,0 +1,55 @@
+Player: WaDi
+Rank: 16
+Points: 49.160000
+
+Top 10 Record: 3-8
+Top 50 Record: 19-16
+
+Tournaments:
+2GGC: MkLeo Saga: 5th
+Super Smash Con 2017: 5th
+Evo 2017: 13th
+Shine 2017: 9th
+Showdown: Battle Royale 2: 3rd
+2GGC: Fire Emblem Saga: 9th
+2GG Championship: 11th
+ALPHA: 2nd
+Super FamiCon 2017: 5th
+SMASHADELPHIA 2017: 3rd
+
+Wins Top 50:
+('ZeRo', ['2GGC: MkLeo Saga'])
+('Tweek', ['2GG Championship'])
+('VoiD', ['2GG Championship'])
+('ESAM', ['Shine 2017'])
+('Mistake', ['Super Smash Con 2017', 'Showdown: Battle Royale 2', '2GGC: Fire Emblem Saga'])
+('CaptainZack', ['Super Smash Con 2017'])
+('Cosmos', ['Showdown: Battle Royale 2', '2GGC: Fire Emblem Saga'])
+('Samsora', ['Evo 2017', '2GGC: Fire Emblem Saga'])
+('Lima', ['2GGC: MkLeo Saga'])
+('Zinoto', ['Shine 2017'])
+('tyroy', ['Showdown: Battle Royale 2'])
+('Light', ['SMASHADELPHIA 2017', 'ALPHA'])
+('K9sbruce', ['2GGC: MkLeo Saga'])
+('9B', ['Evo 2017'])
+
+Losses Top 50:
+('Nairo', ['Super Smash Con 2017', '2GGC: Fire Emblem Saga', '2GGC: MkLeo Saga'])
+('MKLeo', ['Super Smash Con 2017', '2GGC: MkLeo Saga'])
+('Larry Lurr', ['Shine 2017'])
+('Dabuz', ['SMASHADELPHIA 2017', 'ALPHA'])
+('Abadango', ['Evo 2017'])
+('ESAM', ['SMASHADELPHIA 2017'])
+('Komorikiri/komorikiri', ['Shine 2017'])
+('Ally', ['2GG Championship'])
+('CaptainZack', ['Super FamiCon 2017'])
+('Manny', ['Showdown: Battle Royale 2'])
+('Fatality', ['Showdown: Battle Royale 2'])
+('Shuton', ['2GGC: Fire Emblem Saga'])
+
+Losses Other:
+('ATLhomie', ['DreamHack Atlanta 2017'])
+('Gael', ['Super FamiCon 2017'])
+('False', ['Evo 2017'])
+('PepperJack', ['DreamHack Atlanta 2017'])
+('John Numbers', ['ALPHA'])

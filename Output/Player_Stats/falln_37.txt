@@ -1,0 +1,47 @@
+Player: falln
+Rank: 37
+Points: 28.310000
+
+Top 10 Record: 0-4
+Top 50 Record: 5-17
+
+Tournaments:
+Super Smash Con 2017: 9th
+2GGC: Fire Emblem Saga: 13th
+Evo 2017: 25th
+DreamHack Atlanta 2017: 17th
+2GGC: West Side Saga: 13th
+2GGC: SCR Saga: 17th
+IBP Masters Showdown: 13th
+2GGC: MkLeo Saga: 33rd
+GameTyrant Expo 2017: 33rd
+2GGC: Arms Saga: 25th
+
+Wins Top 50:
+('Manny', ['DreamHack Atlanta 2017'])
+('NAKAT', ['2GGC: Fire Emblem Saga'])
+('JK', ['Evo 2017'])
+('K9sbruce', ['2GGC: Last Chance Qualifier'])
+('Eon', ['Evo 2017'])
+
+Losses Top 50:
+('Salem', ['Evo 2017', '2GGC: SCR Saga'])
+('Nairo', ['2GGC: West Side Saga'])
+('Mr.R', ['2GGC: Last Chance Qualifier'])
+('Abadango', ['Evo 2017'])
+('ESAM', ['GameTyrant Expo 2017'])
+('Mistake', ['Super Smash Con 2017', '2GGC: Last Chance Qualifier'])
+('Komorikiri/komorikiri', ['Super Smash Con 2017'])
+('Ally', ['IBP Masters Showdown'])
+('Samsora', ['2GGC: SCR Saga', '2GGC: Fire Emblem Saga'])
+('Marss', ['2GGC: MkLeo Saga'])
+('Kirihara', ['2GGC: Fire Emblem Saga'])
+('Shuton', ['2GGC: West Side Saga'])
+('NAKAT', ['2GGC: Arms Saga'])
+('Kameme', ['2GGC: MkLeo Saga'])
+
+Losses Other:
+('Aarvark', ['IBP Masters Showdown'])
+('Vinnie', ['2GGC: Arms Saga', 'DreamHack Atlanta 2017'])
+('Peabnut', ['DreamHack Atlanta 2017'])
+('PiXL', ['GameTyrant Expo 2017'])

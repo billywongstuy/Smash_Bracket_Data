@@ -1,0 +1,73 @@
+Player: Larry Lurr
+Rank: 6
+Points: 71.780000
+
+Top 10 Record: 10-23
+Top 50 Record: 39-36
+
+Tournaments:
+Evo 2017: 3rd
+GameTyrant Expo 2017: 4th
+2GGC: SCR Saga: 3rd
+DreamHack Atlanta 2017: 5th
+IBP Masters Showdown: 2nd
+The Big House 7: 7th
+DreamHack Montreal 2017: 1st
+Shine 2017: 7th
+2GGC: MkLeo Saga: 9th
+Get On My Level 2017: 2nd
+DreamHack Denver 2017: 3rd
+Canada Cup 2017: 3rd
+2GGC: Arms Saga: 9th
+2GG Championship: 11th
+Low Tier City 5: 7th
+2GGC: Fire Emblem Saga: 25th
+Super Smash Con 2017: 33rd
+
+Wins Top 50:
+('Salem', ['Evo 2017'])
+('Nairo', ['Evo 2017'])
+('Dabuz', ['DreamHack Montreal 2017'])
+('KEN', ['IBP Masters Showdown'])
+('VoiD', ['2GGC: SCR Saga', 'PAX Arena at PAX West 2017', 'IBP Masters Showdown'])
+('Mr.R', ['GameTyrant Expo 2017', 'The Big House 7', 'IBP Masters Showdown'])
+('Abadango', ['2GGC: SCR Saga', 'DreamHack Denver 2017'])
+('ESAM', ['DreamHack Atlanta 2017', 'DreamHack Montreal 2017', 'DreamHack Montreal 2017'])
+('Mistake', ['Get On My Level 2017', 'DreamHack Montreal 2017'])
+('Komorikiri/komorikiri', ['GameTyrant Expo 2017', 'IBP Masters Showdown'])
+('Elegant', ['Evo 2017'])
+('WaDi', ['Shine 2017'])
+('Ally', ['DreamHack Montreal 2017', 'GameTyrant Expo 2017', 'Canada Cup 2017'])
+('CaptainZack', ['2GGC: SCR Saga', '2GGC: MkLeo Saga'])
+('Samsora', ['GameTyrant Expo 2017'])
+('Tsu', ['2GGC: Arms Saga', 'Evo 2017', '2GGC: MkLeo Saga'])
+('Mr.E', ['DreamHack Atlanta 2017'])
+('Zinoto', ['GameTyrant Expo 2017'])
+('Charliedaking', ['GameTyrant Expo 2017'])
+('Fatality', ['Get On My Level 2017', '2GG Championship'])
+('Raito', ['The Big House 7'])
+('tyroy', ['The Big House 7'])
+('Light', ['Shine 2017'])
+('Eon', ['IBP Masters Showdown'])
+
+Losses Top 50:
+('ZeRo', ['Evo 2017', '2GGC: SCR Saga', 'PAX Arena at PAX West 2017', 'GameTyrant Expo 2017', 'The Big House 7', 'DreamHack Denver 2017', '2GG Championship'])
+('Salem', ['Evo 2017', 'PAX Arena at PAX West 2017', 'DreamHack Denver 2017'])
+('Nairo', ['DreamHack Atlanta 2017', 'Shine 2017'])
+('MKLeo', ['2GGC: SCR Saga', 'Canada Cup 2017', '2GGC: MkLeo Saga', 'IBP Masters Showdown'])
+('Tweek', ['Shine 2017', 'PAX Arena at PAX West 2017'])
+('KEN', ['2GGC: Arms Saga', '2GGC: MkLeo Saga'])
+('VoiD', ['DreamHack Atlanta 2017', 'PAX Arena at PAX West 2017', '2GGC: Fire Emblem Saga'])
+('ESAM', ['Low Tier City 5', 'Super Smash Con 2017'])
+('Mistake', ['Get On My Level 2017', 'DreamHack Montreal 2017'])
+('Komorikiri/komorikiri', ['2GGC: Arms Saga', 'The Big House 7'])
+('Elegant', ['2GG Championship'])
+('Ally', ['PAX Arena at PAX West 2017'])
+('ANTi', ['Get On My Level 2017'])
+('Lima', ['Low Tier City 5', 'Canada Cup 2017'])
+('Mr.E', ['IBP Masters Showdown'])
+('NAKAT', ['GameTyrant Expo 2017'])
+
+Losses Other:
+('Ke-ya', ['Super Smash Con 2017'])
+('Ryuga', ['2GGC: Fire Emblem Saga'])

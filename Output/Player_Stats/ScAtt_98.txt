@@ -1,0 +1,21 @@
+Player: ScAtt
+Rank: 98
+Points: 14.230000
+
+Top 10 Record: 0-1
+Top 50 Record: 2-3
+
+Tournaments:
+UNLOCKED: 3rd
+DreamHack Atlanta 2017: 33rd
+
+Wins Top 50:
+('Manny', ['UNLOCKED', 'UNLOCKED'])
+
+Losses Top 50:
+('Salem', ['UNLOCKED'])
+('ESAM', ['UNLOCKED'])
+('CaptainZack', ['DreamHack Atlanta 2017'])
+
+Losses Other:
+('Mekos', ['DreamHack Atlanta 2017'])

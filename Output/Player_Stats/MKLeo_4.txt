@@ -1,0 +1,66 @@
+Player: MKLeo
+Rank: 4
+Points: 78.010000
+
+Top 10 Record: 17-14
+Top 50 Record: 42-19
+
+Tournaments:
+GameTyrant Expo 2017: 1st
+2GG Championship: 1st
+2GGC: MkLeo Saga: 3rd
+Super Smash Con 2017: 3rd
+2GGC: SCR Saga: 2nd
+IBP Masters Showdown: 1st
+Shine 2017: 5th
+Canada Cup 2017: 1st
+Smash Factor 6: 1st
+2GGC: Fire Emblem Saga: 9th
+IGX - International Gaming Expo: 1st
+DreamHack Atlanta 2017: 17th
+
+Wins Top 50:
+('ZeRo', ['GameTyrant Expo 2017', '2GG Championship', '2GG Championship'])
+('Salem', ['Super Smash Con 2017', 'GameTyrant Expo 2017', '2GG Championship', '2GG Championship'])
+('Tweek', ['2GGC: SCR Saga'])
+('Larry Lurr', ['2GGC: SCR Saga', 'Canada Cup 2017', '2GGC: MkLeo Saga', 'IBP Masters Showdown'])
+('KEN', ['IBP Masters Showdown'])
+('VoiD', ['IBP Masters Showdown'])
+('Mr.R', ['Smash Factor 6', 'Smash Factor 6', 'GameTyrant Expo 2017'])
+('Abadango', ['2GGC: MkLeo Saga', '2GG Championship'])
+('Mistake', ['2GGC: SCR Saga'])
+('Komorikiri/komorikiri', ['Super Smash Con 2017', 'GameTyrant Expo 2017', 'IBP Masters Showdown'])
+('Elegant', ['GameTyrant Expo 2017', 'GameTyrant Expo 2017'])
+('WaDi', ['Super Smash Con 2017', '2GGC: MkLeo Saga'])
+('Ally', ['2GGC: SCR Saga', 'Shine 2017'])
+('CaptainZack', ['2GGC: SCR Saga', 'Shine 2017', '2GGC: Fire Emblem Saga'])
+('Manny', ['DreamHack Atlanta 2017'])
+('Lima', ['Canada Cup 2017'])
+('Kirihara', ['2GG Championship'])
+('Zinoto', ['Canada Cup 2017'])
+('NAKAT', ['Smash Factor 6', 'Smash Factor 6'])
+('JK', ['GameTyrant Expo 2017', '2GGC: MkLeo Saga'])
+('Eon', ['IBP Masters Showdown'])
+('Javi', ['Smash Factor 6'])
+
+Losses Top 50:
+('ZeRo', ['DreamHack Atlanta 2017', 'Super Smash Con 2017', '2GGC: SCR Saga', '2GGC: SCR Saga', 'Shine 2017', '2GG Championship'])
+('Salem', ['PAX Arena at PAX West 2017'])
+('Nairo', ['Super Smash Con 2017', 'PAX Arena at PAX West 2017'])
+('Tweek', ['Shine 2017', '2GGC: MkLeo Saga'])
+('KEN', ['2GGC: MkLeo Saga'])
+('VoiD', ['2GGC: Fire Emblem Saga'])
+('Mr.R', ['Smash Factor 6'])
+('Komorikiri/komorikiri', ['2GGC: Fire Emblem Saga'])
+('Elegant', ['GameTyrant Expo 2017'])
+('CaptainZack', ['PAX Arena at PAX West 2017'])
+('ANTi', ['PAX Arena at PAX West 2017'])
+('Shuton', ['2GG Championship'])
+
+Losses Other:
+('Vinnie', ['DreamHack Atlanta 2017'])
+('False', ['Evo 2017'])
+('Mute Ace', ['Evo 2017'])
+('Konga', ['PAX Arena at PAX West 2017'])
+('Gomakenpi', ['The Big House 7'])
+('Bayo Prince of Crowbar', ['The Big House 7'])

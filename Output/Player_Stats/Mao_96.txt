@@ -1,0 +1,33 @@
+Player: Mao
+Rank: 96
+Points: 14.330000
+
+Top 10 Record: 0-1
+Top 50 Record: 1-5
+
+Tournaments:
+Umebura 27: 9th
+Sumabato 21: 5th
+Umebura 29: 13th
+Umebura 30: 13th
+Rikabura 8: 7th
+
+Wins Top 50:
+('Raito', ['Umebura 30'])
+
+Losses Top 50:
+('KEN', ['Rikabura 8'])
+('Kirihara', ['Umebura 29'])
+('Tsu', ['Umebura 27', 'Umebura 30'])
+('Kameme', ['Umebura 27'])
+
+Losses Other:
+('Lickey?', ['Umebura 30'])
+('takera', ['Umebura 28'])
+('Shogun', ['Umebura 28'])
+('Yuzu', ['Umebura 29'])
+('Lagnel', ['Sumabato 20'])
+('Edge', ['Sumabato 20'])
+('Kome', ['Sumabato 21'])
+('Earth', ['Rikabura 8'])
+('Selcia', ['Sumabato 21'])

@@ -1,0 +1,27 @@
+Player: bAhuto
+Rank: 88
+Points: 15.780000
+
+Top 10 Record: 0-1
+Top 50 Record: 1-3
+
+Tournaments:
+Umebura 30: 4th
+Umebura 28: 5th
+Umebura 27: 9th
+
+Wins Top 50:
+('Kirihara', ['Umebura 28'])
+
+Losses Top 50:
+('KEN', ['Umebura 28'])
+('Abadango', ['Umebura 30'])
+('Kameme', ['Umebura 27'])
+
+Losses Other:
+('Lea', ['Umebura 27'])
+('Mona', ['Umebura 29'])
+('Zackray', ['Rikabura 8'])
+('Rain', ['Umebura 28'])
+('Earth', ['Umebura 30', 'Rikabura 8'])
+('Mao', ['Umebura 29'])

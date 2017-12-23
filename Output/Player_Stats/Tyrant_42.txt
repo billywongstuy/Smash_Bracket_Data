@@ -1,0 +1,48 @@
+Player: Tyrant
+Rank: 42
+Points: 26.590000
+
+Top 10 Record: 0-3
+Top 50 Record: 5-11
+
+Tournaments:
+2GGC: Fire Emblem Saga: 13th
+Who's Your Pappy #10: 1st
+GameTyrant Expo 2017: 25th
+2GGC: MkLeo Saga: 33rd
+2GGC: West Side Saga: 25th
+2GGC: SCR Saga: 33rd
+IBP Masters Showdown: 25th
+
+Wins Top 50:
+('Elegant', ["Who's Your Pappy #10", "Who's Your Pappy #10"])
+('Mr.E', ['GameTyrant Expo 2017'])
+('Zinoto', ['GameTyrant Expo 2017'])
+('Zenyou', ['2GGC: Fire Emblem Saga'])
+
+Losses Top 50:
+('Tweek', ['2GGC: Fire Emblem Saga'])
+('VoiD', ['GameTyrant Expo 2017'])
+('Mr.R', ['GameTyrant Expo 2017'])
+('ESAM', ['2GGC: MkLeo Saga'])
+('Elegant', ["Who's Your Pappy #10"])
+('MVD', ['2GGC: MkLeo Saga'])
+('Charliedaking', ['2GGC: SCR Saga'])
+('Fatality', ['Evo 2017'])
+('K9sbruce', ['2GGC: SCR Saga'])
+('Eon', ['IBP Masters Showdown'])
+('Locus', ['2GGC: West Side Saga'])
+
+Losses Other:
+('Maroo', ['2GGC: Arms Saga'])
+('Mumei', ['Evo 2017'])
+('JUICE', ['2GGC: Last Chance Qualifier'])
+('Constable Lemon', ['The Big House 7'])
+('aperture', ['2GGC: West Side Saga'])
+('Kswz', ['IBP Masters Showdown'])
+('BlueTitanz', ['2GGC: Arms Saga'])
+('Rock', ['2GGC: Arms Saga'])
+('Navi', ['2GGC: Arms Saga'])
+('Mr. Bear', ['2GGC: Last Chance Qualifier'])
+('Paper', ['2GGC: Fire Emblem Saga'])
+('Blaze', ['The Big House 7'])

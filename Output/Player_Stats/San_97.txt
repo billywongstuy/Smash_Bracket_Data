@@ -1,0 +1,21 @@
+Player: San
+Rank: 97
+Points: 14.300000
+
+Top 10 Record: 0-1
+Top 50 Record: 1-2
+
+Tournaments:
+Get On My Level 2017: 4th
+2GGC: Fire Emblem Saga: 33rd
+
+Wins Top 50:
+('Cosmos', ['2GGC: Fire Emblem Saga'])
+
+Losses Top 50:
+('Larry Lurr', ['Get On My Level 2017'])
+('Mr.E', ['2GGC: Fire Emblem Saga'])
+
+Losses Other:
+('Shadow', ['Get On My Level 2017'])
+('Vinnie', ['2GGC: Fire Emblem Saga'])

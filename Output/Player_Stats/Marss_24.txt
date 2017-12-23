@@ -1,0 +1,34 @@
+Player: Marss
+Rank: 24
+Points: 36.530000
+
+Top 10 Record: 3-3
+Top 50 Record: 9-8
+
+Tournaments:
+The Big House 7: 2nd
+Shine 2017: 13th
+GameTyrant Expo 2017: 17th
+2GGC: MkLeo Saga: 25th
+
+Wins Top 50:
+('ZeRo', ['The Big House 7'])
+('VoiD', ['GameTyrant Expo 2017', 'The Big House 7'])
+('Ally', ['The Big House 7'])
+('CaptainZack', ['The Big House 7'])
+('Cosmos', ['The Big House 7'])
+('MVD', ['Shine 2017', 'The Big House 7'])
+('falln', ['2GGC: MkLeo Saga'])
+
+Losses Top 50:
+('Dabuz', ['GameTyrant Expo 2017', 'The Big House 7'])
+('Mr.R', ['GameTyrant Expo 2017'])
+('Mistake', ['Shine 2017'])
+('Ally', ['The Big House 7'])
+('CaptainZack', ['Shine 2017'])
+('Samsora', ['2GGC: MkLeo Saga'])
+('K9sbruce', ['2GGC: MkLeo Saga'])
+
+Losses Other:
+('WoodenFence', ['Get On My Level 2017'])
+('Tourist', ['Get On My Level 2017'])

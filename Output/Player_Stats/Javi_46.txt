@@ -1,0 +1,41 @@
+Player: Javi
+Rank: 46
+Points: 25.910000
+
+Top 10 Record: 0-7
+Top 50 Record: 4-12
+
+Tournaments:
+DreamHack Denver 2017: 4th
+2GGC: MkLeo Saga: 17th
+The Big House 7: 17th
+Smash Factor 6: 5th
+2GGC: West Side Saga: 17th
+Showdown: Battle Royale 2: 9th
+Clutch City Clash 2: 7th
+2GGC: Fire Emblem Saga: 33rd
+
+Wins Top 50:
+('Abadango', ['DreamHack Denver 2017'])
+('CaptainZack', ['Showdown: Battle Royale 2'])
+('Cosmos', ['DreamHack Denver 2017'])
+('Kameme', ['2GGC: MkLeo Saga'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: West Side Saga', 'The Big House 7', 'DreamHack Denver 2017', 'Clutch City Clash 2'])
+('Salem', ['DreamHack Denver 2017'])
+('Nairo', ['2GGC: West Side Saga'])
+('MKLeo', ['Smash Factor 6'])
+('Komorikiri/komorikiri', ['2GGC: Fire Emblem Saga'])
+('Samsora', ['Showdown: Battle Royale 2'])
+('Mr.E', ['2GGC: MkLeo Saga'])
+('JK', ['Clutch City Clash 2'])
+('Kameme', ['Smash Factor 6'])
+
+Losses Other:
+('JohnnstR', ['Showdown: Battle Royale 2'])
+('Snorley', ['TGL Presents: Divided'])
+('YOC', ['2GGC: Fire Emblem Saga'])
+('Xzax', ['The Big House 7'])
+('Captain L', ['2GGC: MkLeo Saga'])
+('8Bitman/8BitMan', ['TGL Presents: Divided'])

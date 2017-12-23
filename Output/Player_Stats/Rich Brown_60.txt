@@ -1,0 +1,46 @@
+Player: Rich Brown
+Rank: 60
+Points: 22.030000
+
+Top 10 Record: 0-5
+Top 50 Record: 2-15
+
+Tournaments:
+Who's Your Pappy #10: 3rd
+2GGC: Arms Saga: 17th
+TGL & PG Present: Too Hot to Handle: 9th
+2GGC: MkLeo Saga: 33rd
+Super Smash Con 2017: 33rd
+IBP Masters Showdown: 17th
+2GGC: West Side Saga: 25th
+2GGC: Fire Emblem Saga: 33rd
+2GGC: SCR Saga: 33rd
+Evo 2017: 49th
+
+Wins Top 50:
+('Charliedaking', ["Who's Your Pappy #10"])
+('NAKAT', ['Super Smash Con 2017'])
+
+Losses Top 50:
+('Salem', ['TGL & PG Present: Too Hot to Handle'])
+('Nairo', ['Super Smash Con 2017'])
+('MKLeo', ['2GGC: Fire Emblem Saga'])
+('Tweek', ['2GGC: Arms Saga'])
+('VoiD', ['Evo 2017'])
+('Abadango', ['2GGC: MkLeo Saga'])
+('ESAM', ['TGL & PG Present: Too Hot to Handle'])
+('Elegant', ["Who's Your Pappy #10"])
+('Cosmos', ['2GGC: Fire Emblem Saga'])
+('Lima', ['2GGC: SCR Saga'])
+('Tsu', ['2GGC: Arms Saga'])
+('MVD', ['2GGC: MkLeo Saga'])
+('Raito', ['Evo 2017'])
+('Tyrant', ["Who's Your Pappy #10"])
+('Zenyou', ['IBP Masters Showdown'])
+
+Losses Other:
+('Dill', ['Super Smash Con 2017'])
+('Maiko', ['2GGC: West Side Saga'])
+('Venom', ['2GGC: SCR Saga'])
+('Apa~', ['2GGC: West Side Saga'])
+('Xzax', ['IBP Masters Showdown'])

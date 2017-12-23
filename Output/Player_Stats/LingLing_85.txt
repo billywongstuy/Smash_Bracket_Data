@@ -1,0 +1,27 @@
+Player: LingLing
+Rank: 85
+Points: 16.080000
+
+Top 10 Record: 0-1
+Top 50 Record: 2-5
+
+Tournaments:
+Evo 2017: 25th
+ALPHA: 4th
+Shine 2017: 33rd
+
+Wins Top 50:
+('Mr.E', ['ALPHA'])
+('tyroy', ['Evo 2017'])
+
+Losses Top 50:
+('Dabuz', ['ALPHA'])
+('WaDi', ['ALPHA'])
+('Lima', ['Evo 2017'])
+('Tsu', ['Evo 2017'])
+('Shoyo James', ['Shine 2017'])
+
+Losses Other:
+('RosaGetsFit', ['Super FamiCon 2017'])
+('Peabnut', ['Super FamiCon 2017'])
+('aperture', ['Shine 2017'])

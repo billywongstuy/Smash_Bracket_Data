@@ -1,0 +1,33 @@
+Player: JJROCKETS
+Rank: 95
+Points: 14.370000
+
+Top 10 Record: 0-1
+Top 50 Record: 1-6
+
+Tournaments:
+Super Smash Con 2017: 25th
+GameTyrant Expo 2017: 33rd
+Port Priority 2: Midwest Invasion: 5th
+Showdown: Battle Royale 2: 13th
+
+Wins Top 50:
+('Zinoto', ['Showdown: Battle Royale 2'])
+
+Losses Top 50:
+('Larry Lurr', ['Evo 2017'])
+('Cosmos', ['Midwest Mayhem 10'])
+('Manny', ['Showdown: Battle Royale 2'])
+('Fatality', ['GameTyrant Expo 2017'])
+('JK', ['GameTyrant Expo 2017'])
+('falln', ['Super Smash Con 2017'])
+
+Losses Other:
+('Nom', ['Midwest Mayhem 9'])
+('Ned', ['Port Priority 2: Midwest Invasion'])
+('dyr', ['Showdown: Battle Royale 2'])
+('Ozone', ['Midwest Mayhem 9'])
+('Blank', ['Midwest Mayhem 10'])
+('Cashmere', ['Super Smash Con 2017'])
+('Captain L', ['Port Priority 2: Midwest Invasion'])
+('Z', ['Evo 2017'])

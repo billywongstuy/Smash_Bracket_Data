@@ -1,0 +1,79 @@
+Player: ZeRo
+Rank: 1
+Points: 100.000000
+
+Top 10 Record: 44-14
+Top 50 Record: 80-21
+
+Tournaments:
+Evo 2017: 2nd
+Shine 2017: 1st
+2GGC: SCR Saga: 1st
+Super Smash Con 2017: 2nd
+2GG Championship: 2nd
+GameTyrant Expo 2017: 3rd
+2GGC: West Side Saga: 1st
+The Big House 7: 4th
+2GGC: Arms Saga: 2nd
+Midwest Mayhem 9: 1st
+DreamHack Denver 2017: 1st
+Low Tier City 5: 2nd
+2GGC: MkLeo Saga: 13th
+DreamHack Atlanta 2017: 9th
+Midwest Mayhem 10: 2nd
+Clutch City Clash 2: 1st
+
+Wins Top 50:
+('Salem', ['PAX Arena at PAX West 2017', 'GameTyrant Expo 2017', 'The Big House 7', 'DreamHack Denver 2017', 'Midwest Mayhem 10', '2GG Championship'])
+('Nairo', ['Midwest Mayhem 9', 'Shine 2017', 'PAX Arena at PAX West 2017', 'PAX Arena at PAX West 2017', 'The Big House 7'])
+('MKLeo', ['DreamHack Atlanta 2017', 'Super Smash Con 2017', '2GGC: SCR Saga', '2GGC: SCR Saga', 'Shine 2017', '2GG Championship'])
+('Tweek', ['Midwest Mayhem 9', 'Evo 2017', 'Shine 2017', 'PAX Arena at PAX West 2017', '2GGC: West Side Saga', '2GGC: West Side Saga', 'GameTyrant Expo 2017', 'Midwest Mayhem 10'])
+('Larry Lurr', ['Evo 2017', '2GGC: SCR Saga', 'PAX Arena at PAX West 2017', 'GameTyrant Expo 2017', 'The Big House 7', 'DreamHack Denver 2017', '2GG Championship'])
+('Dabuz', ['2GGC: Arms Saga', '2GG Championship', '2GG Championship'])
+('KEN', ['2GGC: Arms Saga', 'Evo 2017', '2GGC: West Side Saga', '2GG Championship'])
+('VoiD', ['2GGC: Arms Saga', 'Super Smash Con 2017', 'PAX Arena at PAX West 2017'])
+('Mr.R', ['Super Smash Con 2017', 'Midwest Mayhem 10'])
+('Abadango', ['Low Tier City 5'])
+('ESAM', ['Low Tier City 5', 'DreamHack Denver 2017'])
+('Mistake', ['Low Tier City 5'])
+('Komorikiri/komorikiri', ['2GGC: SCR Saga'])
+('Elegant', ['Clutch City Clash 2', '2GG Championship'])
+('Ally', ['DreamHack Atlanta 2017', 'PAX Arena at PAX West 2017'])
+('CaptainZack', ['GameTyrant Expo 2017'])
+('Cosmos', ['Shine 2017'])
+('ANTi', ['GameTyrant Expo 2017'])
+('Samsora', ['2GGC: SCR Saga'])
+('Lima', ['Low Tier City 5'])
+('Kirihara', ['2GGC: West Side Saga'])
+('Tsu', ['2GGC: West Side Saga'])
+('Mr.E', ['Evo 2017'])
+('MVD', ['Shine 2017'])
+('Zinoto', ['Midwest Mayhem 9', '2GGC: West Side Saga', 'The Big House 7'])
+('Charliedaking', ['2GGC: Arms Saga'])
+('Fatality', ['2GG Championship'])
+('Shuton', ['2GGC: West Side Saga'])
+('JK', ['Clutch City Clash 2', 'Clutch City Clash 2'])
+('DarkShad', ['GameTyrant Expo 2017'])
+('Kameme', ['2GGC: MkLeo Saga'])
+('Raito', ['2GGC: Arms Saga', 'GameTyrant Expo 2017'])
+('tyroy', ['Super Smash Con 2017'])
+('K9sbruce', ['2GGC: SCR Saga'])
+('Javi', ['2GGC: West Side Saga', 'The Big House 7', 'DreamHack Denver 2017', 'Clutch City Clash 2'])
+
+Losses Top 50:
+('Salem', ['Evo 2017', 'Evo 2017', 'Midwest Mayhem 10', 'Midwest Mayhem 10'])
+('Nairo', ['DreamHack Atlanta 2017', 'Super Smash Con 2017', 'Super Smash Con 2017'])
+('MKLeo', ['GameTyrant Expo 2017', '2GG Championship', '2GG Championship'])
+('Tweek', ['Low Tier City 5'])
+('Dabuz', ['2GGC: Arms Saga', '2GGC: Arms Saga'])
+('Mr.R', ['2GGC: MkLeo Saga'])
+('Mistake', ['Low Tier City 5'])
+('WaDi', ['2GGC: MkLeo Saga'])
+('Cosmos', ['The Big House 7'])
+('Samsora', ['DreamHack Atlanta 2017'])
+('Marss', ['The Big House 7'])
+('Shuton', ['2GGC: West Side Saga'])
+('DarkShad', ['GameTyrant Expo 2017'])
+
+Losses Other:
+('Trela', ['Clutch City Clash 2'])

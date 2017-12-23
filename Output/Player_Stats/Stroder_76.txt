@@ -1,0 +1,32 @@
+Player: Stroder
+Rank: 76
+Points: 17.680000
+
+Top 10 Record: 1-3
+Top 50 Record: 2-7
+
+Tournaments:
+2GGC: West Side Saga: 13th
+2GGC: SCR Saga: 25th
+2GGC: MkLeo Saga: 33rd
+2GGC: Fire Emblem Saga: 33rd
+
+Wins Top 50:
+('Nairo', ['2GGC: West Side Saga'])
+('JK', ['2GGC: SCR Saga'])
+
+Losses Top 50:
+('Salem', ['2GGC: Fire Emblem Saga'])
+('Larry Lurr', ['2GGC: Arms Saga'])
+('Mr.R', ['2GGC: SCR Saga'])
+('ANTi', ['Evo 2017'])
+('Kirihara', ['2GGC: MkLeo Saga'])
+('Raito', ['2GGC: MkLeo Saga'])
+('Tyrant', ['2GGC: Fire Emblem Saga'])
+
+Losses Other:
+('Myran', ['Evo 2017'])
+('Ac', ['2GGC: SCR Saga'])
+('NCJacobT', ['2GGC: Arms Saga'])
+('Scizor', ['2GGC: West Side Saga'])
+('T', ['2GGC: West Side Saga'])

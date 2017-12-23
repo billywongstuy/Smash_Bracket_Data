@@ -1,0 +1,30 @@
+Player: 6WX
+Rank: 48
+Points: 24.750000
+
+Top 10 Record: 0-2
+Top 50 Record: 5-5
+
+Tournaments:
+Super Smash Con 2017: 9th
+Showdown: Battle Royale 2: 5th
+2GGC: Fire Emblem Saga: 33rd
+
+Wins Top 50:
+('ESAM', ['Super Smash Con 2017'])
+('Mistake', ['Showdown: Battle Royale 2'])
+('Ally', ['Super Smash Con 2017'])
+('Cosmos', ['Super Smash Con 2017'])
+('Mr.E', ['Super Smash Con 2017'])
+
+Losses Top 50:
+('Salem', ['Super Smash Con 2017'])
+('VoiD', ['Super Smash Con 2017'])
+('Abadango', ['2GGC: Fire Emblem Saga'])
+('Cosmos', ['Showdown: Battle Royale 2'])
+('Manny', ['Showdown: Battle Royale 2'])
+
+Losses Other:
+('Ac', ['2GGC: Fire Emblem Saga'])
+('Vivid', ['SMASHADELPHIA 2017'])
+('Frozen', ['SMASHADELPHIA 2017'])

@@ -1,0 +1,57 @@
+Player: ANTi
+Rank: 21
+Points: 44.140000
+
+Top 10 Record: 4-10
+Top 50 Record: 14-17
+
+Tournaments:
+GameTyrant Expo 2017: 5th
+DreamHack Atlanta 2017: 5th
+Get On My Level 2017: 1st
+2GGC: SCR Saga: 13th
+Super FamiCon 2017: 4th
+DreamHack Montreal 2017: 5th
+Evo 2017: 25th
+Shine 2017: 17th
+Smash Factor 6: 13th
+The Big House 7: 49th
+
+Wins Top 50:
+('MKLeo', ['PAX Arena at PAX West 2017'])
+('Tweek', ['GameTyrant Expo 2017'])
+('Larry Lurr', ['Get On My Level 2017'])
+('Mr.R', ['DreamHack Atlanta 2017'])
+('Mistake', ['Get On My Level 2017'])
+('CaptainZack', ['DreamHack Atlanta 2017', 'PAX Arena at PAX West 2017'])
+('Samsora', ['DreamHack Atlanta 2017'])
+('Lima', ['2GGC: SCR Saga'])
+('Mr.E', ['Shine 2017'])
+('Charliedaking', ['GameTyrant Expo 2017'])
+('Fatality', ['GameTyrant Expo 2017'])
+('Kameme', ['2GGC: SCR Saga'])
+('Light', ['Super FamiCon 2017'])
+
+Losses Top 50:
+('ZeRo', ['GameTyrant Expo 2017'])
+('Salem', ['DreamHack Atlanta 2017', 'DreamHack Atlanta 2017', 'PAX Arena at PAX West 2017'])
+('Nairo', ['Shine 2017', 'PAX Arena at PAX West 2017'])
+('Tweek', ['2GGC: SCR Saga'])
+('Dabuz', ['DreamHack Montreal 2017', 'Super FamiCon 2017'])
+('KEN', ['Evo 2017'])
+('ESAM', ['Shine 2017'])
+('Mistake', ['DreamHack Montreal 2017'])
+('Elegant', ['GameTyrant Expo 2017'])
+('Ally', ['2GGC: SCR Saga', 'PAX Arena at PAX West 2017'])
+('CaptainZack', ['Evo 2017', 'Super FamiCon 2017'])
+
+Losses Other:
+('Wonf', ['Smash Factor 6'])
+('Tael1996', ['Smash Factor 6'])
+('Masamunne', ['2GGC: Fire Emblem Saga'])
+('Konga', ['PAX Arena at PAX West 2017'])
+('SeaLoss', ['2GGC: Fire Emblem Saga'])
+('Joledo', ['2GGC: Fire Emblem Saga'])
+('Akira', ['2GGC: Fire Emblem Saga'])
+('Sinji', ['The Big House 7'])
+('Gackt', ['The Big House 7'])

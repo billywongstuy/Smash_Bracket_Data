@@ -1,0 +1,48 @@
+Player: Lima
+Rank: 23
+Points: 40.110000
+
+Top 10 Record: 4-6
+Top 50 Record: 12-14
+
+Tournaments:
+2GGC: MkLeo Saga: 7th
+Evo 2017: 9th
+Canada Cup 2017: 2nd
+Low Tier City 5: 5th
+2GGC: Arms Saga: 13th
+2GGC: West Side Saga: 13th
+2GGC: SCR Saga: 17th
+GameTyrant Expo 2017: 33rd
+
+Wins Top 50:
+('Larry Lurr', ['Low Tier City 5', 'Canada Cup 2017'])
+('KEN', ['2GGC: MkLeo Saga'])
+('VoiD', ['2GGC: MkLeo Saga'])
+('Mistake', ['Evo 2017'])
+('Elegant', ['2GGC: Arms Saga'])
+('Ally', ['Canada Cup 2017'])
+('Kirihara', ['2GGC: MkLeo Saga'])
+('Mr.E', ['Evo 2017'])
+('Zinoto', ['Canada Cup 2017'])
+('NAKAT', ['Evo 2017'])
+('Locus', ['2GGC: MkLeo Saga'])
+
+Losses Top 50:
+('ZeRo', ['Low Tier City 5'])
+('MKLeo', ['Canada Cup 2017'])
+('Tweek', ['Low Tier City 5'])
+('Dabuz', ['Evo 2017', 'GameTyrant Expo 2017'])
+('KEN', ['2GGC: MkLeo Saga'])
+('Abadango', ['2GGC: West Side Saga'])
+('Elegant', ['Evo 2017'])
+('WaDi', ['2GGC: MkLeo Saga'])
+('ANTi', ['2GGC: SCR Saga'])
+('Tsu', ['2GGC: Arms Saga'])
+('Zinoto', ['2GGC: West Side Saga'])
+('Fatality', ['2GGC: SCR Saga'])
+('Raito', ['2GGC: Arms Saga'])
+
+Losses Other:
+('Jw', ['Canada Cup 2017'])
+('Captain L', ['GameTyrant Expo 2017'])

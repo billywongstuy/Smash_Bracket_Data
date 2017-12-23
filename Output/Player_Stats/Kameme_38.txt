@@ -1,0 +1,44 @@
+Player: Kameme
+Rank: 38
+Points: 28.150000
+
+Top 10 Record: 1-1
+Top 50 Record: 6-11
+
+Tournaments:
+2GGC: Arms Saga: 9th
+2GGC: SCR Saga: 13th
+Smash Factor 6: 4th
+Umebura 27: 7th
+2GGC: MkLeo Saga: 25th
+Umebura 30: 7th
+Umebura 29: 13th
+
+Wins Top 50:
+('KEN', ['2GGC: Arms Saga'])
+('Cosmos', ['2GGC: Arms Saga'])
+('Fatality', ['2GGC: SCR Saga'])
+('falln', ['2GGC: MkLeo Saga'])
+('Eon', ['2GGC: MkLeo Saga'])
+('Javi', ['Smash Factor 6'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: MkLeo Saga'])
+('Mistake', ['2GGC: SCR Saga'])
+('ANTi', ['2GGC: SCR Saga'])
+('Kirihara', ['Umebura 27'])
+('Tsu', ['Umebura 27', '2GGC: Arms Saga'])
+('Choco', ['Umebura 30'])
+('Charliedaking', ['2GGC: Arms Saga'])
+('NAKAT', ['Smash Factor 6'])
+('Eon', ['Evo 2017'])
+('Javi', ['2GGC: MkLeo Saga'])
+
+Losses Other:
+('MattyG', ['Super Smash Con 2017'])
+('Lea', ['Umebura 30'])
+('Dom', ['Evo 2017'])
+('Captain Levi', ['Smash Factor 6'])
+('dekillsage', ['Super Smash Con 2017'])
+('Eim', ['Umebura 29'])
+('Shogun', ['Umebura 29'])

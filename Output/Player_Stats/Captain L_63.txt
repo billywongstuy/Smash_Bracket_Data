@@ -1,0 +1,30 @@
+Player: Captain L
+Rank: 63
+Points: 20.360000
+
+Top 10 Record: 0-4
+Top 50 Record: 3-5
+
+Tournaments:
+2GGC: MkLeo Saga: 13th
+2GGC: SCR Saga: 25th
+Port Priority 2: Midwest Invasion: 4th
+GameTyrant Expo 2017: 33rd
+
+Wins Top 50:
+('Mistake', ['2GGC: MkLeo Saga'])
+('Lima', ['GameTyrant Expo 2017'])
+('Javi', ['2GGC: MkLeo Saga'])
+
+Losses Top 50:
+('Salem', ['GameTyrant Expo 2017', '2GGC: MkLeo Saga'])
+('Tweek', ['2GGC: SCR Saga'])
+('KEN', ['2GGC: MkLeo Saga'])
+('Charliedaking', ['2GGC: SCR Saga'])
+
+Losses Other:
+('Calculus', ['GameTyrant Expo 2017'])
+('KOSSismoss', ['Port Priority 2: Midwest Invasion'])
+('BestNess', ['Evo 2017'])
+('Pokepen', ['Port Priority 2: Midwest Invasion'])
+('Cleytito', ['Evo 2017'])

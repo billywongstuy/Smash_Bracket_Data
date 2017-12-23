@@ -1,0 +1,35 @@
+Player: Rideae
+Rank: 91
+Points: 15.390000
+
+Top 10 Record: 1-3
+Top 50 Record: 2-6
+
+Tournaments:
+Super Smash Con 2017: 17th
+DreamHack Atlanta 2017: 33rd
+TGL Presents: Divided: 7th
+
+Wins Top 50:
+('Nairo', ['Super Smash Con 2017'])
+('Zenyou', ["Who's Your Pappy #10"])
+
+Losses Top 50:
+('Salem', ['UNLOCKED'])
+('MKLeo', ['DreamHack Atlanta 2017'])
+('Mr.R', ['Super Smash Con 2017'])
+('ESAM', ['TGL Presents: Divided'])
+('Mr.E', ['DreamHack Atlanta 2017'])
+('falln', ['Super Smash Con 2017'])
+
+Losses Other:
+('Ryo', ['UNLOCKED'])
+('Vinnie', ["Who's Your Pappy #10"])
+('Mr. Riddle', ['TGL & PG Present: Too Hot to Handle'])
+('KDK', ['GatorLAN Fall 2017'])
+('dyr', ['TGL Presents: Divided'])
+('Rich Brown', ['TGL & PG Present: Too Hot to Handle'])
+('Eldin', ['Super FamiCon 2017'])
+('SirReal', ["Who's Your Pappy #10"])
+('Donquavious', ['Super FamiCon 2017'])
+('Ross', ['GatorLAN Fall 2017'])

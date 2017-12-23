@@ -1,0 +1,35 @@
+Player: Ac
+Rank: 65
+Points: 19.800000
+
+Top 10 Record: 1-2
+Top 50 Record: 3-6
+
+Tournaments:
+2GGC: Fire Emblem Saga: 9th
+2GGC: MkLeo Saga: 25th
+2GGC: SCR Saga: 33rd
+IBP Masters Showdown: 25th
+
+Wins Top 50:
+('KEN', ['2GGC: Fire Emblem Saga'])
+('Mr.E', ['2GGC: Fire Emblem Saga'])
+('6WX', ['2GGC: Fire Emblem Saga'])
+
+Losses Top 50:
+('Salem', ['2GGC: Fire Emblem Saga'])
+('MKLeo', ['2GGC: SCR Saga'])
+('Samsora', ['2GGC: Fire Emblem Saga'])
+('Tsu', ['2GGC: MkLeo Saga'])
+('K9sbruce', ['2GGC: Arms Saga'])
+('Locus', ['2GGC: Arms Saga'])
+
+Losses Other:
+('Horse', ['2GGC: Arms Saga'])
+('Z', ['IBP Masters Showdown'])
+('HIKARU', ['2GGC: MkLeo Saga'])
+('LingLing', ['Evo 2017'])
+('Share', ['Evo 2017'])
+('Vash', ['2GGC: Arms Saga'])
+('Luhtie', ['2GGC: SCR Saga'])
+('MrConCon', ['IBP Masters Showdown'])

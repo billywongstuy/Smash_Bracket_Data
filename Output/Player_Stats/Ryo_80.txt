@@ -1,0 +1,30 @@
+Player: Ryo
+Rank: 80
+Points: 16.820000
+
+Top 10 Record: 0-2
+Top 50 Record: 3-4
+
+Tournaments:
+GatorLAN Fall 2017: 3rd
+IGX - International Gaming Expo: 2nd
+2GGC: Fire Emblem Saga: 25th
+
+Wins Top 50:
+('JK', ['2GGC: Fire Emblem Saga'])
+('Locus', ['IGX - International Gaming Expo', 'Super Smash Con 2017'])
+
+Losses Top 50:
+('MKLeo', ['IGX - International Gaming Expo', 'IGX - International Gaming Expo'])
+('Manny', ['UNLOCKED'])
+('falln', ['2GGC: Fire Emblem Saga'])
+
+Losses Other:
+('Mystearica', ['2GGC: Fire Emblem Saga'])
+('Brand', ['GatorLAN Fall 2017'])
+('saj.', ['GatorLAN Fall 2017'])
+('P2P with Gibus', ['Super Smash Con 2017'])
+('Mew2King', ['UNLOCKED'])
+('smasher1001', ['Super Smash Con 2017'])
+('Blank', ['TGL & PG Present: Too Hot to Handle'])
+('Cashmere', ['TGL & PG Present: Too Hot to Handle'])

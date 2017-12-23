@@ -1,0 +1,42 @@
+Player: DarkShad
+Rank: 36
+Points: 28.860000
+
+Top 10 Record: 2-2
+Top 50 Record: 6-10
+
+Tournaments:
+GameTyrant Expo 2017: 7th
+Super Smash Con 2017: 13th
+Midwest Mayhem 9: 9th
+Showdown: Battle Royale 2: 13th
+Super FamiCon 2017: 13th
+The Big House 7: 49th
+
+Wins Top 50:
+('ZeRo', ['GameTyrant Expo 2017'])
+('Nairo', ['GameTyrant Expo 2017'])
+('Ally', ['Super Smash Con 2017'])
+('Cosmos', ['Super Smash Con 2017'])
+('MVD', ['GameTyrant Expo 2017'])
+('Locus', ['GameTyrant Expo 2017'])
+
+Losses Top 50:
+('ZeRo', ['GameTyrant Expo 2017'])
+('Mr.R', ['GameTyrant Expo 2017'])
+('CaptainZack', ['Midwest Mayhem 9'])
+('Cosmos', ['Showdown: Battle Royale 2'])
+('Samsora', ['Showdown: Battle Royale 2'])
+('Fatality', ['Super FamiCon 2017'])
+('tyroy', ['Midwest Mayhem 9'])
+('Light', ['The Big House 7'])
+('Locus', ['Evo 2017'])
+('Shoyo James', ['Super Smash Con 2017'])
+
+Losses Other:
+('Shadow_PR', ['Super Smash Con 2017'])
+('Day', ['Evo 2017'])
+('Kwaz', ['Midwest Mayhem 10'])
+('NameLess', ['Midwest Mayhem 10'])
+('BestNess', ['The Big House 7'])
+('Wrath', ['Super FamiCon 2017'])

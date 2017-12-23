@@ -1,0 +1,41 @@
+Player: Zenyou
+Rank: 47
+Points: 25.800000
+
+Top 10 Record: 0-6
+Top 50 Record: 4-12
+
+Tournaments:
+GameTyrant Expo 2017: 13th
+2GGC: SCR Saga: 13th
+Evo 2017: 33rd
+IBP Masters Showdown: 13th
+2GGC: Fire Emblem Saga: 25th
+2GGC: MkLeo Saga: 33rd
+2GGC: West Side Saga: 17th
+
+Wins Top 50:
+('Abadango', ['2GGC: SCR Saga'])
+('Samsora', ['Evo 2017'])
+('MVD', ['GameTyrant Expo 2017'])
+('Fatality', ['GameTyrant Expo 2017'])
+
+Losses Top 50:
+('Salem', ['2GGC: SCR Saga'])
+('Tweek', ['GameTyrant Expo 2017'])
+('Dabuz', ['GameTyrant Expo 2017'])
+('VoiD', ['IBP Masters Showdown'])
+('Mr.R', ['2GGC: MkLeo Saga', 'IBP Masters Showdown'])
+('Komorikiri/komorikiri', ['Evo 2017', '2GGC: SCR Saga'])
+('Tsu', ['2GGC: West Side Saga'])
+('Zinoto', ['2GGC: West Side Saga'])
+('JK', ['2GGC: MkLeo Saga'])
+('Tyrant', ['2GGC: Fire Emblem Saga'])
+
+Losses Other:
+('ENVY', ['2GGC: Last Chance Qualifier'])
+('Razo', ['2GGC: Fire Emblem Saga'])
+('Shaky', ["Who's Your Pappy #10"])
+('Rideae', ["Who's Your Pappy #10"])
+('Xzax', ['Evo 2017'])
+('Infinite_Dragneel', ['2GGC: Last Chance Qualifier'])

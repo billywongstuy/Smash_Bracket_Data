@@ -1,0 +1,51 @@
+Player: Charliedaking
+Rank: 31
+Points: 33.050000
+
+Top 10 Record: 0-7
+Top 50 Record: 9-15
+
+Tournaments:
+2GGC: Arms Saga: 5th
+GameTyrant Expo 2017: 9th
+2GGC: West Side Saga: 7th
+2GGC: SCR Saga: 17th
+Evo 2017: 33rd
+IBP Masters Showdown: 13th
+2GGC: MkLeo Saga: 33rd
+2GGC: Fire Emblem Saga: 33rd
+Who's Your Pappy #10: 7th
+
+Wins Top 50:
+('Abadango', ['2GGC: Arms Saga'])
+('Mistake', ['GameTyrant Expo 2017'])
+('NAKAT', ['2GGC: Arms Saga'])
+('JK', ['2GGC: West Side Saga'])
+('Kameme', ['2GGC: Arms Saga'])
+('Raito', ['GameTyrant Expo 2017'])
+('Tyrant', ['2GGC: SCR Saga'])
+('K9sbruce', ['IBP Masters Showdown'])
+('Locus', ['2GGC: West Side Saga'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: Arms Saga'])
+('Nairo', ['2GGC: West Side Saga'])
+('Larry Lurr', ['GameTyrant Expo 2017'])
+('KEN', ['2GGC: Arms Saga', 'Evo 2017', '2GGC: West Side Saga'])
+('VoiD', ['2GGC: Fire Emblem Saga'])
+('Mistake', ['2GGC: SCR Saga'])
+('Komorikiri/komorikiri', ['2GGC: MkLeo Saga', 'IBP Masters Showdown'])
+('Ally', ['2GGC: SCR Saga'])
+('ANTi', ['GameTyrant Expo 2017'])
+('Shuton', ['2GGC: Fire Emblem Saga'])
+('Eon', ['IBP Masters Showdown'])
+('Locus', ['2GGC: Last Chance Qualifier'])
+
+Losses Other:
+('Myran', ['TGL & PG Present: Too Hot to Handle'])
+('HIKARU', ['2GGC: MkLeo Saga'])
+('DSS', ["Who's Your Pappy #10"])
+('Rich Brown', ["Who's Your Pappy #10"])
+('Edge', ['Evo 2017'])
+('Razo', ['2GGC: Last Chance Qualifier'])
+('1upGirlXaltis', ['TGL & PG Present: Too Hot to Handle'])

@@ -1,0 +1,53 @@
+Player: Locus
+Rank: 45
+Points: 25.940000
+
+Top 10 Record: 0-2
+Top 50 Record: 5-13
+
+Tournaments:
+Evo 2017: 25th
+Shine 2017: 17th
+2GGC: Arms Saga: 17th
+2GGC: Fire Emblem Saga: 25th
+2GGC: SCR Saga: 25th
+2GGC: West Side Saga: 17th
+GameTyrant Expo 2017: 33rd
+The Big House 7: 33rd
+2GGC: Last Chance Qualifier: 7th
+IGX - International Gaming Expo: 5th
+2GGC: MkLeo Saga: 49th
+
+Wins Top 50:
+('Mr.E', ['2GGC: Last Chance Qualifier'])
+('Charliedaking', ['2GGC: Last Chance Qualifier'])
+('DarkShad', ['Evo 2017'])
+('Tyrant', ['2GGC: West Side Saga'])
+('Shoyo James', ['Shine 2017'])
+
+Losses Top 50:
+('Nairo', ['2GGC: Fire Emblem Saga'])
+('Dabuz', ['2GGC: Arms Saga'])
+('Mistake', ['Shine 2017', 'Shine 2017'])
+('Ally', ['2GGC: SCR Saga', 'GameTyrant Expo 2017'])
+('Samsora', ['2GGC: Fire Emblem Saga'])
+('Lima', ['2GGC: MkLeo Saga'])
+('Charliedaking', ['2GGC: West Side Saga'])
+('NAKAT', ['Evo 2017'])
+('JK', ['Evo 2017'])
+('DarkShad', ['GameTyrant Expo 2017'])
+('K9sbruce', ['2GGC: Last Chance Qualifier'])
+
+Losses Other:
+('Ryo', ['IGX - International Gaming Expo', 'Super Smash Con 2017'])
+('Meteor', ['2GGC: MkLeo Saga'])
+('Vash', ['2GGC: Last Chance Qualifier'])
+('Moonboyjosh', ['2GGC: MkLeo Saga'])
+('vegagold', ['2GGC: MkLeo Saga'])
+('Gackt', ['The Big House 7'])
+('Gen', ['2GGC: SCR Saga'])
+('CC', ['Super Smash Con 2017'])
+('Vinnie', ['2GGC: Arms Saga'])
+('BaSK 3xA', ['2GGC: West Side Saga'])
+('Sol', ['IGX - International Gaming Expo'])
+('Ryuga', ['The Big House 7'])

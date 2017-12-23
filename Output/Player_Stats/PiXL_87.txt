@@ -1,0 +1,30 @@
+Player: PiXL
+Rank: 87
+Points: 15.820000
+
+Top 10 Record: 0-3
+Top 50 Record: 2-7
+
+Tournaments:
+2GGC: SCR Saga: 13th
+GameTyrant Expo 2017: 17th
+2GGC: MkLeo Saga: 49th
+
+Wins Top 50:
+('falln', ['GameTyrant Expo 2017'])
+('Eon', ['2GGC: SCR Saga'])
+
+Losses Top 50:
+('Nairo', ['GameTyrant Expo 2017'])
+('Larry Lurr', ['2GGC: MkLeo Saga'])
+('Mr.R', ['2GGC: SCR Saga'])
+('Abadango', ['2GGC: SCR Saga'])
+('Charliedaking', ['GameTyrant Expo 2017'])
+('K9sbruce', ['2GGC: West Side Saga'])
+('Eon', ['2GGC: West Side Saga'])
+
+Losses Other:
+('Ac', ['2GGC: MkLeo Saga'])
+('SoCalGohan', ['2GGC: MkLeo Saga'])
+('IcyMist', ['Evo 2017'])
+('Gokiburin', ['Evo 2017'])

@@ -1,0 +1,43 @@
+Player: JK
+Rank: 35
+Points: 28.980000
+
+Top 10 Record: 0-8
+Top 50 Record: 5-13
+
+Tournaments:
+Evo 2017: 9th
+GameTyrant Expo 2017: 13th
+Clutch City Clash 2: 2nd
+2GGC: MkLeo Saga: 25th
+Shine 2017: 17th
+Super Smash Con 2017: 33rd
+2GGC: West Side Saga: 25th
+2GGC: SCR Saga: 33rd
+2GGC: Fire Emblem Saga: 49th
+
+Wins Top 50:
+('ESAM', ['Shine 2017'])
+('Elegant', ['Clutch City Clash 2'])
+('NAKAT', ['GameTyrant Expo 2017'])
+('Javi', ['Clutch City Clash 2'])
+('Zenyou', ['2GGC: MkLeo Saga'])
+
+Losses Top 50:
+('ZeRo', ['Clutch City Clash 2', 'Clutch City Clash 2'])
+('Salem', ['Shine 2017'])
+('Nairo', ['GameTyrant Expo 2017'])
+('MKLeo', ['GameTyrant Expo 2017', '2GGC: MkLeo Saga'])
+('VoiD', ['Super Smash Con 2017', '2GGC: Fire Emblem Saga'])
+('ESAM', ['2GGC: MkLeo Saga'])
+('CaptainZack', ['2GGC: SCR Saga'])
+('Cosmos', ['Super Smash Con 2017'])
+('Charliedaking', ['2GGC: West Side Saga'])
+('Light', ['Shine 2017'])
+
+Losses Other:
+('Aarvark', ['2GGC: West Side Saga'])
+('Dong dong never dies', ['Evo 2017'])
+('Ryo', ['2GGC: Fire Emblem Saga'])
+('DammitLalo', ['Evo 2017'])
+('Stroder', ['2GGC: SCR Saga'])

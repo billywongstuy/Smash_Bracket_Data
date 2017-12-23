@@ -1,0 +1,21 @@
+Player: Ron
+Rank: 82
+Points: 16.410000
+
+Top 10 Record: 0-0
+Top 50 Record: 2-1
+
+Tournaments:
+Sumabato 20: 2nd
+Dubai Dojo 2: 7th
+
+Wins Top 50:
+('Komorikiri/komorikiri', ['Sumabato 20'])
+('Shuton', ['Dubai Dojo 2'])
+
+Losses Top 50:
+('9B', ['Dubai Dojo 2'])
+
+Losses Other:
+('Aki', ['Sumabato 20', 'Sumabato 20'])
+('Edge', ['Dubai Dojo 2'])

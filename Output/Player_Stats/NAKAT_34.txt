@@ -1,0 +1,44 @@
+Player: NAKAT
+Rank: 34
+Points: 29.700000
+
+Top 10 Record: 1-5
+Top 50 Record: 8-12
+
+Tournaments:
+Evo 2017: 13th
+Smash Factor 6: 3rd
+GameTyrant Expo 2017: 17th
+2GGC: Arms Saga: 13th
+2GGC: Fire Emblem Saga: 17th
+The Big House 7: 25th
+
+Wins Top 50:
+('Larry Lurr', ['GameTyrant Expo 2017'])
+('Abadango', ['Evo 2017'])
+('Mistake', ['2GGC: Fire Emblem Saga'])
+('CaptainZack', ['Evo 2017'])
+('falln', ['2GGC: Arms Saga'])
+('Kameme', ['Smash Factor 6'])
+('K9sbruce', ['2GGC: Arms Saga'])
+('Locus', ['Evo 2017'])
+
+Losses Top 50:
+('Salem', ['Evo 2017', 'The Big House 7'])
+('MKLeo', ['Smash Factor 6', 'Smash Factor 6'])
+('KEN', ['2GGC: Arms Saga'])
+('Komorikiri/komorikiri', ['2GGC: Fire Emblem Saga'])
+('Elegant', ['GameTyrant Expo 2017'])
+('Lima', ['Evo 2017'])
+('Charliedaking', ['2GGC: Arms Saga'])
+('JK', ['GameTyrant Expo 2017'])
+('falln', ['2GGC: Fire Emblem Saga'])
+('Light', ['The Big House 7'])
+
+Losses Other:
+('Peabnut', ['Super Smash Con 2017'])
+('Rival', ['2GGC: West Side Saga'])
+('Jaymillex', ['Shine 2017'])
+('Rich Brown', ['Super Smash Con 2017'])
+('Jared67', ['Shine 2017'])
+('Jesus Juice', ['2GGC: West Side Saga'])

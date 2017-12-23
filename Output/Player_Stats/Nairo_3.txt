@@ -1,0 +1,68 @@
+Player: Nairo
+Rank: 3
+Points: 80.820000
+
+Top 10 Record: 21-18
+Top 50 Record: 50-26
+
+Tournaments:
+Super Smash Con 2017: 1st
+2GGC: Fire Emblem Saga: 2nd
+2GGC: MkLeo Saga: 4th
+Evo 2017: 5th
+Shine 2017: 3rd
+DreamHack Atlanta 2017: 4th
+2GGC: SCR Saga: 7th
+2GGC: West Side Saga: 5th
+GameTyrant Expo 2017: 9th
+Midwest Mayhem 9: 2nd
+The Big House 7: 9th
+2GG Championship: 10th
+
+Wins Top 50:
+('ZeRo', ['DreamHack Atlanta 2017', 'Super Smash Con 2017', 'Super Smash Con 2017'])
+('Salem', ['Shine 2017', 'PAX Arena at PAX West 2017', 'PAX Arena at PAX West 2017'])
+('MKLeo', ['Super Smash Con 2017', 'PAX Arena at PAX West 2017'])
+('Tweek', ['Midwest Mayhem 9', 'Super Smash Con 2017', '2GGC: Fire Emblem Saga'])
+('Larry Lurr', ['DreamHack Atlanta 2017', 'Shine 2017'])
+('Dabuz', ['DreamHack Atlanta 2017', '2GG Championship'])
+('VoiD', ['Evo 2017', 'Super Smash Con 2017', '2GGC: Fire Emblem Saga'])
+('Mr.R', ['Super Smash Con 2017', '2GGC: SCR Saga', '2GGC: MkLeo Saga'])
+('Abadango', ['Evo 2017', '2GGC: West Side Saga', '2GGC: MkLeo Saga'])
+('Komorikiri/komorikiri', ['Super Smash Con 2017', '2GGC: Fire Emblem Saga', '2GG Championship'])
+('WaDi', ['Super Smash Con 2017', '2GGC: Fire Emblem Saga', '2GGC: MkLeo Saga'])
+('Ally', ['PAX Arena at PAX West 2017'])
+('CaptainZack', ['Midwest Mayhem 9', 'DreamHack Atlanta 2017', 'PAX Arena at PAX West 2017', 'The Big House 7'])
+('Cosmos', ['Midwest Mayhem 9'])
+('ANTi', ['Shine 2017', 'PAX Arena at PAX West 2017'])
+('Kirihara', ['2GGC: Fire Emblem Saga', '2GGC: MkLeo Saga'])
+('Zinoto', ['Midwest Mayhem 9', 'Evo 2017', '2GGC: MkLeo Saga'])
+('Charliedaking', ['2GGC: West Side Saga'])
+('Fatality', ['2GGC: SCR Saga'])
+('JK', ['GameTyrant Expo 2017'])
+('falln', ['2GGC: West Side Saga'])
+('Locus', ['2GGC: Fire Emblem Saga'])
+('Javi', ['2GGC: West Side Saga'])
+('Shoyo James', ['Super Smash Con 2017'])
+
+Losses Top 50:
+('ZeRo', ['Midwest Mayhem 9', 'Shine 2017', 'PAX Arena at PAX West 2017', 'PAX Arena at PAX West 2017', 'The Big House 7'])
+('Salem', ['DreamHack Atlanta 2017', 'DreamHack Atlanta 2017', '2GGC: Fire Emblem Saga', '2GGC: Fire Emblem Saga', '2GG Championship'])
+('Tweek', ['Evo 2017', 'Shine 2017', '2GGC: MkLeo Saga'])
+('Larry Lurr', ['Evo 2017'])
+('Dabuz', ['The Big House 7'])
+('KEN', ['2GGC: West Side Saga', '2GGC: MkLeo Saga'])
+('VoiD', ['2GGC: SCR Saga'])
+('Abadango', ['2GG Championship'])
+('Elegant', ['2GG Championship'])
+('Ally', ['2GG Championship'])
+('CaptainZack', ['2GGC: SCR Saga', '2GG Championship'])
+('Samsora', ['GameTyrant Expo 2017'])
+('DarkShad', ['GameTyrant Expo 2017'])
+('tyroy', ['Midwest Mayhem 9'])
+
+Losses Other:
+('Rideae', ['Super Smash Con 2017'])
+('Stroder', ['2GGC: West Side Saga'])
+('Zanya', ['Get On My Level 2017'])
+('Jet Live', ['Get On My Level 2017'])

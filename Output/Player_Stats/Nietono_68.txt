@@ -1,0 +1,32 @@
+Player: Nietono
+Rank: 68
+Points: 18.580000
+
+Top 10 Record: 0-2
+Top 50 Record: 2-6
+
+Tournaments:
+Umebura 29: 4th
+Evo 2017: 33rd
+Umebura 30: 9th
+Umebura 27: 13th
+Sumabato 20: 7th
+
+Wins Top 50:
+('Kirihara', ['Umebura 30'])
+('Tsu', ['Umebura 28'])
+
+Losses Top 50:
+('KEN', ['Umebura 29'])
+('Mr.R', ['Evo 2017'])
+('Komorikiri/komorikiri', ['Sumabato 20'])
+('Choco', ['Umebura 27'])
+('Mr.E', ['Evo 2017'])
+('Kameme', ['Umebura 30'])
+
+Losses Other:
+('ProtoBanham', ['Umebura 30'])
+('Edge', ['Sumabato 20'])
+('Kisha', ['Umebura 28'])
+('Eim', ['Umebura 28', 'Umebura 29'])
+('Mao', ['Umebura 27'])

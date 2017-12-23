@@ -1,0 +1,31 @@
+Player: Luhtie
+Rank: 62
+Points: 20.660000
+
+Top 10 Record: 0-2
+Top 50 Record: 3-5
+
+Tournaments:
+Super Smash Con 2017: 25th
+Evo 2017: 33rd
+2GGC: SCR Saga: 25th
+2GGC: MkLeo Saga: 33rd
+2GGC: West Side Saga: 25th
+
+Wins Top 50:
+('Abadango', ['Super Smash Con 2017'])
+('Cosmos', ['2GGC: MkLeo Saga'])
+('Eon', ['2GGC: SCR Saga'])
+
+Losses Top 50:
+('Tweek', ['Evo 2017', 'Super Smash Con 2017'])
+('Lima', ['2GGC: SCR Saga'])
+('JK', ['Evo 2017'])
+('Zenyou', ['2GGC: West Side Saga'])
+
+Losses Other:
+('Ac', ['2GGC: MkLeo Saga'])
+('PairODucks', ['2GGC: West Side Saga'])
+('xElGlugx', ['2GGC: SCR Saga'])
+('Captain L', ['2GGC: MkLeo Saga'])
+('Legit', ['Super Smash Con 2017'])

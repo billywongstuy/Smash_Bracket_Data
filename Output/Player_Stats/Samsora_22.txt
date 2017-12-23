@@ -1,0 +1,54 @@
+Player: Samsora
+Rank: 22
+Points: 40.680000
+
+Top 10 Record: 3-8
+Top 50 Record: 12-20
+
+Tournaments:
+GameTyrant Expo 2017: 7th
+2GGC: Fire Emblem Saga: 7th
+DreamHack Atlanta 2017: 9th
+2GG Championship: 11th
+2GGC: MkLeo Saga: 17th
+Showdown: Battle Royale 2: 7th
+2GGC: SCR Saga: 17th
+Evo 2017: 33rd
+TGL & PG Present: Too Hot to Handle: 9th
+UNLOCKED: 5th
+Super Smash Con 2017: 49th
+
+Wins Top 50:
+('ZeRo', ['DreamHack Atlanta 2017'])
+('Nairo', ['GameTyrant Expo 2017'])
+('Dabuz', ['GameTyrant Expo 2017'])
+('Abadango', ['GameTyrant Expo 2017'])
+('CaptainZack', ['2GGC: Fire Emblem Saga'])
+('Marss', ['2GGC: MkLeo Saga'])
+('DarkShad', ['Showdown: Battle Royale 2'])
+('falln', ['2GGC: SCR Saga', '2GGC: Fire Emblem Saga'])
+('Eon', ['2GGC: MkLeo Saga'])
+('Locus', ['2GGC: Fire Emblem Saga'])
+('Javi', ['Showdown: Battle Royale 2'])
+
+Losses Top 50:
+('ZeRo', ['2GGC: SCR Saga'])
+('Tweek', ['2GGC: Fire Emblem Saga', '2GGC: MkLeo Saga'])
+('Larry Lurr', ['GameTyrant Expo 2017'])
+('Dabuz', ['2GG Championship'])
+('KEN', ['2GG Championship'])
+('VoiD', ['DreamHack Atlanta 2017'])
+('Mr.R', ['2GGC: SCR Saga'])
+('ESAM', ['UNLOCKED'])
+('Mistake', ['Showdown: Battle Royale 2'])
+('Elegant', ['GameTyrant Expo 2017'])
+('WaDi', ['Evo 2017', '2GGC: Fire Emblem Saga'])
+('Manny', ['UNLOCKED', 'Showdown: Battle Royale 2', 'TGL & PG Present: Too Hot to Handle'])
+('ANTi', ['DreamHack Atlanta 2017'])
+('Tsu', ['2GGC: MkLeo Saga'])
+('MVD', ['Super Smash Con 2017'])
+('Zenyou', ['Evo 2017'])
+
+Losses Other:
+('2scoops Nicko', ['Super Smash Con 2017'])
+('Cashmere', ['TGL & PG Present: Too Hot to Handle'])

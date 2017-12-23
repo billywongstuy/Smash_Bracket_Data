@@ -1,0 +1,40 @@
+Player: Aarvark
+Rank: 74
+Points: 18.090000
+
+Top 10 Record: 0-3
+Top 50 Record: 3-10
+
+Tournaments:
+IBP Masters Showdown: 9th
+2GGC: Arms Saga: 17th
+2GGC: West Side Saga: 17th
+2GGC: SCR Saga: 33rd
+2GGC: MkLeo Saga: 49th
+Super Smash Con 2017: 49th
+
+Wins Top 50:
+('JK', ['2GGC: West Side Saga'])
+('falln', ['IBP Masters Showdown'])
+('K9sbruce', ['IBP Masters Showdown'])
+
+Losses Top 50:
+('Nairo', ['2GGC: SCR Saga'])
+('KEN', ['2GGC: West Side Saga', 'IBP Masters Showdown'])
+('ESAM', ['2GGC: MkLeo Saga'])
+('Ally', ['Super Smash Con 2017'])
+('CaptainZack', ['Evo 2017'])
+('Cosmos', ['2GGC: Arms Saga', 'Evo 2017', 'Super Smash Con 2017'])
+('Lima', ['2GGC: West Side Saga'])
+
+Losses Other:
+('CopperBoom', ['2GGC: MkLeo Saga'])
+('Ranai', ['2GGC: Arms Saga'])
+('Ke-ya', ['2GGC: Fire Emblem Saga'])
+('Jiren', ['2GGC: Fire Emblem Saga'])
+('OC', ['2GGC: Fire Emblem Saga'])
+('PKFrenchi64', ['2GGC: Fire Emblem Saga'])
+('Rich Brown', ['2GGC: MkLeo Saga'])
+('Muffin', ['2GGC: MkLeo Saga'])
+('MrConCon', ['IBP Masters Showdown'])
+('Gen', ['2GGC: SCR Saga'])

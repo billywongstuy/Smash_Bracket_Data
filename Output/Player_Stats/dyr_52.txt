@@ -1,0 +1,37 @@
+Player: dyr
+Rank: 52
+Points: 23.510000
+
+Top 10 Record: 1-3
+Top 50 Record: 3-12
+
+Tournaments:
+Super Smash Con 2017: 9th
+TGL & PG Present: Too Hot to Handle: 5th
+The Big House 7: 17th
+TGL Presents: Divided: 4th
+Showdown: Battle Royale 2: 9th
+Midwest Mayhem 10: 13th
+
+Wins Top 50:
+('Salem', ['TGL & PG Present: Too Hot to Handle'])
+('Abadango', ['Super Smash Con 2017'])
+('Mr.E', ['TGL & PG Present: Too Hot to Handle'])
+
+Losses Top 50:
+('Salem', ['UNLOCKED'])
+('Dabuz', ['The Big House 7'])
+('Mr.R', ['Super Smash Con 2017'])
+('ESAM', ['TGL Presents: Divided', 'Evo 2017'])
+('Mistake', ['Showdown: Battle Royale 2'])
+('CaptainZack', ['TGL & PG Present: Too Hot to Handle'])
+('Manny', ['TGL Presents: Divided', 'TGL & PG Present: Too Hot to Handle'])
+('Marss', ['The Big House 7'])
+('DarkShad', ['Showdown: Battle Royale 2'])
+('Shoyo James', ['Super Smash Con 2017'])
+
+Losses Other:
+('MJG', ['Midwest Mayhem 10'])
+('Mute Ace', ['UNLOCKED'])
+('Ranai', ['Evo 2017'])
+('Dan', ['Midwest Mayhem 10'])

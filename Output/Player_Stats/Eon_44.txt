@@ -1,0 +1,47 @@
+Player: Eon
+Rank: 44
+Points: 25.940000
+
+Top 10 Record: 0-4
+Top 50 Record: 5-14
+
+Tournaments:
+IBP Masters Showdown: 9th
+2GGC: Last Chance Qualifier: 3rd
+2GGC: Fire Emblem Saga: 17th
+Evo 2017: 33rd
+2GGC: MkLeo Saga: 33rd
+2GGC: Arms Saga: 25th
+2GGC: West Side Saga: 25th
+Who's Your Pappy #10: 7th
+2GGC: SCR Saga: 49th
+
+Wins Top 50:
+('Elegant', ['2GGC: Fire Emblem Saga'])
+('Cosmos', ['2GGC: Last Chance Qualifier'])
+('Charliedaking', ['IBP Masters Showdown'])
+('Kameme', ['Evo 2017'])
+('Tyrant', ['IBP Masters Showdown'])
+
+Losses Top 50:
+('MKLeo', ['IBP Masters Showdown'])
+('Tweek', ['Evo 2017', '2GGC: Fire Emblem Saga'])
+('Larry Lurr', ['IBP Masters Showdown'])
+('Abadango', ['2GGC: Arms Saga'])
+('Elegant', ['2GGC: Arms Saga', "Who's Your Pappy #10", '2GGC: Last Chance Qualifier'])
+('Cosmos', ['2GGC: Last Chance Qualifier'])
+('Samsora', ['2GGC: MkLeo Saga'])
+('Mr.E', ['2GGC: Fire Emblem Saga'])
+('Shuton', ['2GGC: West Side Saga'])
+('falln', ['Evo 2017'])
+('Kameme', ['2GGC: MkLeo Saga'])
+
+Losses Other:
+('Vinnie', ["Who's Your Pappy #10"])
+('Grunk', ['Shine 2017'])
+('Jay', ['ALPHA'])
+('Mekos', ['Shine 2017'])
+('adct', ['ALPHA'])
+('PiXL', ['2GGC: SCR Saga'])
+('T', ['2GGC: West Side Saga'])
+('Luhtie', ['2GGC: SCR Saga'])
